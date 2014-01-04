@@ -44,13 +44,17 @@
 									<p>Websites (kopernik.mielec.pl - I was a part of the development team, Euroschool Online - a website developed in a contest, www.czermin.pl - the website of the Czermin Municipality Office, www.mooble.com - for which I wrote several modules), as well as programs and scripts optimizing server administration are not included.</p>
 								
 									<ul class="list">
+                                        <li><h5>GitHub</h5>
+                                            <ul class="list">
+                                                <li>See repositories list on my <a href="https://github.com/lukasz-kusek?tab=repositories">GitHub account</a>.</li>
+                                            </ul>
+                                        </li>
 										<li><h5>Sabre Polska Sp. z o.o.</h5>
 											<ul class="list">
-												<li><a href="#kraken">Kraken</a> - an application enabling communication between the passengers of a given flight</li>
-												<li><a href="#xmldiff">XMLDiff</a> - a library for comparing XMLs</li>	
-												<li><a href="#pdm">Profiles Data Migrator</a> - an application supporting the migration of data of 30M+ passengers of airlines from the existing server to the new generation system</li>
-												<li><a href="#customer_profiles">Customer Profiles</a> - he fundamental platform for Sabre’s internal applications and external clients used to store, process, validate and provide profiles of airline passengers</li>											
-											</ul>									
+                                                <li><a href="#customer_profiles">Customer Profiles</a> - the fundamental platform for Sabre’s internal applications and external clients used to store, process, validate and provide profiles of airline passengers</li>
+                                                <li><a href="#kraken">Kraken</a> - an application enabling communication between the passengers of a given flight</li>
+                                                <li><a href="#pdm">Profiles Data Migrator</a> - an application supporting the migration of data of 30M+ passengers of airlines from the existing server to the new generation system</li>
+											</ul>
 										</li>
 										<li><h5>MGM Optima Sp. z o.o.</h5>
 											<ul class="list">
@@ -85,6 +89,25 @@
 								</div>
 															
 								<div id="portfolio1">
+                        <div class="indent1 clear">
+                                        <h4><a id="customer_profiles"></a>Customer Profiles</h4>
+
+                                        <p>A web service and database platform for storing, validating, processing and providing passenger profiles for Sabre’s key internal applications and external clients (Travel Network and Airline Solutions). The platform is built on SOA architecture. It’s high-performance, scalable, and offers high availability, guaranteeing a high level of data security.</p>
+
+                                        <p>Technologies and tools used:</p>
+                                            <ul class="list">
+                                                <li>Java 1.7</li>
+                                                <li>Spring Framework</li>
+                                                <li>JPA (Hibernate), myBatis</li>
+                                                <li>Apache Camel</li>
+                                                <li>XSLT, XPath, XML, XML Schema</li>
+                                                <li>Google Guava, Apache Commons</li>
+                                                <li>JUnit, Mockito, Fest</li>
+                                                <li>Apache Maven</li>
+                                                <li>Oracle</li>
+                                            </ul>
+                                    </div>
+
 					   <div class="indent1 clear">
 									<h4><a id="kraken"></a>Kraken</h4>
 									<img src="img/portfolio/kraken1.jpg" alt="Kraken" />
@@ -121,51 +144,7 @@
 									
 									<p></p>
 								</div>	
-								
-						<div class="indent1 clear">
-									<h4><a id="xmldiff"></a>XMLDiff</h4>
-									<p>A library for comparing XMLs.</p>
-									<p>What makes this library different from the other libraries of this type is the possibility of comparing XMLs ignoring the sequence of the elements of the same type.</p>
-									<p>This is very useful if the elements of the same type in an XML represent elements of a set, and the sequence of the elements returned by the system is irrelevant.</p>
-									<p>For instance, if we have two XMLs:</p>
-									
-									<pre>
-&lt;A&gt;
-	&lt;X attr="1"/&gt;
-	&lt;X attr="2"/&gt;
-	&lt;X attr="3"/&gt;
-	&lt;X attr="4"/&gt;
-&lt;/A&gt;						
-									</pre>								
-																		
-									<pre>
-&lt;A&gt;
-	&lt;X attr="3"/&gt;
-	&lt;X attr="1"/&gt;
-	&lt;X attr="4"/&gt;
-	&lt;X attr="2"/&gt;
-&lt;/A&gt;
-									</pre>		
-									
-									<p>All of the libraries I and the team I work with found returned that these two XMLs are different. My library returns that they are identical.</p>
-									
-									<p>Technologies and tools used:</p>
-										<ul class="list">
-											<li>Java 1.6</li>
-											<li>XSLT</li>
-											<li>Google Guava</li>
-											<li>Apache Maven</li>		
-											<li>an algorithm for solving the assignment problem</li>							
-										</ul>	
-										
-									<p></p>
-									
-									<p>Works are under way to offer this library as open source.</p>			
-									
-									<p></p>									
-									
-								</div>
-								
+
 						<div class="indent1 clear">
 									<h4><a id="pdm"></a>Profiles Data Migrator</h4>
 									<img src="img/portfolio/pdm1.jpg" alt="PDM" />
@@ -193,25 +172,6 @@
 											<li>Apache Maven</li>
 											<li>MySQL</li>			
 											<li>HSQLDB</li>	
-										</ul>
-								</div>
-								
-								<div class="indent1 clear">
-									<h4><a id="customer_profiles"></a>Customer Profiles</h4>
-									
-									<p>A web service and database platform for storing, validating, processing and providing passenger profiles for Sabre’s key internal applications and external clients (Travel Network and Airline Solutions). The platform is built on SOA architecture. It’s high-performance, scalable, and offers high availability, guaranteeing a high level of data security.</p>	
-									
-									<p>Technologies and tools used:</p>
-										<ul class="list">
-											<li>Java 1.6</li>
-											<li>Spring Framework</li>
-											<li>JPA (Hibernate), myBatis</li>
-											<li>Apache Camel</li>
-											<li>XSLT, XPath, XML, XML Schema</li>
-											<li>Google Guava, Apache Commons</li>
-											<li>JUnit, Mockito, Fest</li>
-											<li>Apache Maven</li>
-											<li>Oracle</li>	
 										</ul>
 								</div>
 								
@@ -276,7 +236,7 @@
 								</div>									
 								
                   <div class="indent1 clear">
-									<h4><a id="raporty"></a>Raporty</h4>
+									<h4><a id="raporty"></a>Raporty (Reports)</h4>
 									<p>In an individual project for Montownia Projektów, I produced the Raporty (Reports) application used for post-training reports - questionnaires and knowledge tests.</p>	
 									
 									<p>The project included several tasks:</p>
@@ -420,11 +380,11 @@
 								</div>
 								
 								<div class="indent1 clear">
-									<h4><a id="matematyka"></a><a href="https://github.com/lukasz-kusek/matematyka">Matematyka (Mathematics)</a></h4>
+									<h4><a id="matematyka"></a><a href="https://github.com/lukasz-kusek/matematyka">Matematyka (Mathematics)</a> (Polish only)</h4>
 									<img src="img/portfolio/matematyka.jpg" alt="Matematyka" />
-									<p>"Mathematics – lecture notes" s a collection of lecture notes <span class="nobr">I prepared</span> on the basis of the lectures in Mathematics while studying Aviation and Aeronautics at the Polish Air Force Academy in Dęblin.</p>
-									<p>The collection is a “for students, by a student” work, based on <span class="nobr">a number</span> of books, so that it is accessible, with in-document links allowing for finding previously defined notions, so that every concept in the document is defined.</p>	
-									<p>The following issues are covered:</p>
+									<p>"Mathematics - lecture notes" s a collection of lecture notes <span class="nobr">I prepared</span> on the basis of the lectures in Mathematics while studying Aviation and Aeronautics at the Polish Air Force Academy in Dęblin.</p>
+									<p>The collection is based on <span class="nobr">a number</span> of books, so that it is accessible, with in-document links allowing for finding previously defined notions, so that every concept in the document is defined.</p>
+									<p style="margin-top: 30px">The following issues are covered:</p>
 										<ul class="list">
 											<li>relations,</li>
 											<li>algebraic structures,</li>
@@ -451,7 +411,7 @@
 									
 									<p>The application solves the Sudoku entered by the user and presents the solution or solutions (if there is no single solution).</p>
 									
-									<p style="margin-top: 50px">Rules and strategies used:</p>	
+									<p style="margin-top: 50px">Rules and strategies used:</p>
 										<ul class="list">
 											<li>the rules of classical Sudoku: in each row, column and nine-field square, there are nine numbers from 0 to 9,</li>
 											<li>looking for single elements,</li>
@@ -502,7 +462,7 @@
 								</div>								
 								
 								<div class="indent1 clear">
-									<h4><a id="fizyka"></a><a href="http://geomap-czermin.pl/fizyka">fizyka.kopernik.mielec.pl</a></h4>
+									<h4><a id="fizyka"></a><a href="http://geomap-czermin.pl/fizyka">fizyka.kopernik.mielec.pl</a> (Polish only)</h4>
 									<p>A website dedicated to the issues discussed in physics classes in high school. Currently, only the copy linked above is available.</p>
 									
 									<p>Once completed, the website became very popular, with many webpages linking it, many forum users quoted it. The website appear on Google’s page one when searching for “fizyka” (“physics”).</p>	
