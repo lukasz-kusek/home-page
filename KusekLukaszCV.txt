@@ -1,0 +1,79 @@
+= Łukasz Kusek
+
+    Phone: (44) 777 420 1310
+    Email: lukasz-cv@kusek.info
+    GitHub: https://github.com/lukasz-kusek
+    LinkedIn: http://pl.linkedin.com/pub/%C5%82ukasz-kusek/51/b4a/1b9/en
+    Website: http://lukasz.kusek.info
+    Address: Harpenden, UK
+
+
+== Senior Software Engineer
+
+    Software engineer with over 5 years commercial experience (9 years including part-time jobs). My area of expertise is building highly available backend services on JVM platform (Scala, Java).
+
+
+=== Skills
+
+    ==== Tool
+        Maven, Git, JIRA, GO, AWS, 
+
+    ==== Other
+        REST, JSON, Microservices, Event Sourcing, XML, 
+
+    ==== Database
+        DynamoDB, PostgreSQL, Oracle, MySQL, 
+
+    ==== Library
+        Akka, Spray, Cucumber, CameronFIX, Spring, Hibernate, 
+
+    ==== Language
+        Scala, Java, SQL, 
+
+
+== Experience
+
+    === Senior Software Engineer (2015-02 - ), Ocado Technology, Hatfield, United Kingdom
+        * I'm working in an agile team creating microservices providing availability of products and allowing to allocate products for customers. Services are designed to be highly available (akka cluster, AWS, blue-green deployment), highly responsible (actor model) and low latency (in-memory cache with akka sharding). Services are based on CQRS and eventsoursing.
+        * I've worked on replatforming existing order management services to cloud based microservices.
+
+    === Senior Software Developer (2014-03 - 2015-01), Luxoft, Krakow, Poland
+        * Contractor at UBS Investment Bank. I've worked on capital commitment, automatic indication of interest generation and trade advertising applications at Cash Equities project.
+
+    === Senior Java Developer (2012-05 - 2014-02), Sabre, Krakow, Poland
+    === Java Developer Contributor (2011-07 - 2012-04), Sabre, Krakow, Poland
+        * Successfully finished a cost saving project before required deadline. The project was to migrate passengers data (30M+ profiles) and functionality from existing application running on proprietary HP NonStop Kernel servers.
+
+    === Java Developer (2010-06 - 2011-06), Sylogic, Warszawa, Poland
+        * I've been developing web applications for customers.
+
+    === Linux administrator (2006-01 - 2009-07), ConSol* Consulting &amp; Solutions Software Poland, Krakow, Poland
+        * I've built and been maintaining infrastructure for a technology company which employed 30 developers.
+
+
+== Learning
+
+    === Education
+
+        Polish Air Force Academy in Dęblin (2009 - 2011), Aviation and Cosmonautics
+
+        AGH University of Science and Technology in Cracow (2004 - 2009), Computer Science
+
+
+    === Conferences / trainings
+
+        Uncle Bob's Advanced TDD (2015)
+
+        GeeCon (2014)
+
+        JDD (2013)
+
+        Java Developers’ Day (2008)
+
+        Java Developers’ Day (2006)
+
+
+    === Other
+
+        Currently learning Scala and Clojure.
+
