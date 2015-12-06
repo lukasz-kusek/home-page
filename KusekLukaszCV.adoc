@@ -26,7 +26,7 @@ Guice, Akka, Spray, Cucumber, CameronFIX, QuickFIX/J, Spring, Hibernate,
 REST, JSON, Microservices, Event Sourcing, XML, 
 
 ==== Tool
-Maven, Git, JIRA, Thoughtworks Go, AWS, 
+Maven, Git, JIRA, GO, AWS, 
 
 
 == Experience
@@ -36,7 +36,7 @@ Maven, Git, JIRA, Thoughtworks Go, AWS,
 * I've configured Continuous Delivery pipelines. I've done a research on implementation of BlueGreen Deployment and found major flaws in the early stage what allowed us to prepare architecture of our applications before it's released to production.
 * I've worked on replatforming existing order management services to cloud based microservices. I've successfully introduced testing standards in the team (testing levels definitions - unit, component, system tests; naming convention). I've lead sessions to present importance of tests quality.
 
-Technologies: Microservices, JSON, REST, Swagger, Hystrix, PostgreSQL, Python, Cucumber, Mockito, AssertJ, JUnit, Java, Jenkins, Guice, DynamoDB, Crucible, Kibana, Logstash, Thoughtworks Go, AWS, Git, Intellij IDEA, Maven, Scala, ScalaTest, JIRA, Spray, Akka, Event Sourcing, 
+Technologies: Microservices, JSON, REST, Swagger, Hystrix, PostgreSQL, Python, Cucumber, Mockito, AssertJ, JUnit, Java, Jenkins, Guice, DynamoDB, Crucible, Kibana, Logstash, GO, AWS, Git, Intellij IDEA, Maven, Scala, ScalaTest, JIRA, Spray, Akka, Event Sourcing, 
 
 === Senior Software Developer (2014-03 - 2015-01), Luxoft (Investment banking), Krakow, Poland
 * Contractor at UBS Investment Bank. I worked on capital commitment, automatic indication of interest generation and trade advertising applications at Cash Equities project.
