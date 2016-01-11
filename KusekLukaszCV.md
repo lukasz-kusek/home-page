@@ -12,7 +12,7 @@
 
 *Address*: Harpenden, UK
 
-## Senior Software Engineer
+## Scala Engineer (Contractor)
 
 Senior software engineer with over 5 years commercial experience (9 years including part-time jobs). My area of expertise is building highly available backend services on JVM platform (Scala - 1/2 year, Java - 5 years).
 
@@ -36,21 +36,27 @@ Maven, Git, JIRA, GO, AWS,
 
 ## Experience
 
-### Senior Software Engineer (2015-02 - ), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
+### Senior Software Engineer (Scala) (2015-07 - ), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
 * I work in an agile team creating microservices providing real time availability logic to inform shoppers what is in and out of stock in milliseconds. Services are designed to be highly available (akka cluster, AWS, blue-green deployment), highly responsible (actor model) and low latency (in-memory cache with akka sharding). Services are based on CQRS and event sourcing.
 * I've configured Continuous Delivery pipelines. I've done a research on implementation of BlueGreen Deployment and found major flaws in the early stage what allowed us to prepare architecture of our applications before it's released to production.
+* Successfully migrated production and integration tests environments to new AWS account before given deadline.
+
+Technologies: Microservices, JSON, REST, Swagger, Guice, DynamoDB, Crucible, Kibana, Logstash, GO, AWS, Git, Intellij IDEA, Maven, Scala, ScalaTest, JIRA, Spray, Akka, Event Sourcing, 
+
+### Senior Software Engineer (Java) (2015-02 - 2015-07), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
 * I've worked on replatforming existing order management services to cloud based microservices. I've successfully introduced testing standards in the team (testing levels definitions - unit, component, system tests; naming convention). I've lead sessions to present importance of tests quality.
 
-Technologies: Microservices, JSON, REST, Swagger, Hystrix, PostgreSQL, Python, Cucumber, Mockito, AssertJ, JUnit, Java, Jenkins, Guice, DynamoDB, Crucible, Kibana, Logstash, GO, AWS, Git, Intellij IDEA, Maven, Scala, ScalaTest, JIRA, Spray, Akka, Event Sourcing, 
+Technologies: Microservices, JSON, REST, Swagger, Hystrix, PostgreSQL, Python, Cucumber, Mockito, AssertJ, JUnit, Java, Jenkins, Guice, DynamoDB, Crucible, Kibana, Logstash, GO, AWS, Git, Intellij IDEA, Maven, 
 
-### Senior Software Developer (2014-03 - 2015-01), Luxoft (Investment banking), Krakow, Poland
+### Senior Software Developer (Java) - contractor (2014-03 - 2015-01), Luxoft (Investment banking), Krakow, Poland
 * Contractor at UBS Investment Bank. I worked on capital commitment, automatic indication of interest generation and trade advertising applications at Cash Equities project.
 * I've introduced automatic system tests, enhanced logging that enabled tracking single requests, automatic build system using Gradle and Jenkins which improved speed and reliability of the process.
 
 Technologies: QuickFIX/J, CameronFIX, Spock, Groovy, Git, Gradle, Jenkins, Java, Oracle, JIRA, SVN, Intellij IDEA, SQL, JUnit, AssertJ, Guava, Mockito, 
 
-### Senior Java Developer (2012-05 - 2014-02), Sabre (Airlines and airports), Krakow, Poland
-### Java Developer Contributor (2011-07 - 2012-04), Sabre (Airlines and airports), Krakow, Poland
+### Senior Java Developer (2013-05 - 2014-02), Sabre (Airlines and airports), Krakow, Poland
+### Senior Java Developer - contractor (2012-05 - 2013-05), Sabre (Airlines and airports), Krakow, Poland
+### Java Developer - contractor (2011-07 - 2012-04), Sabre (Airlines and airports), Krakow, Poland
 * Successfully finished a cost saving project before required deadline. Firstly as a team member, then since 2012 as a team leader. The project was the migration over 30 major airlines between the legacy system (based on HP NonStop Kernel) to the current system. The project was very challenging due to multiple dependencies (Sabre's internal systems, customer's systems), no downtime requirement, big amount of user data (data of 30M+ passengers of airlines), pressure of time, little documentation of the legacy system and all of it's features.
 * Developed a library for comparing XMLs. What makes this library different from the other libraries of this type is the possibility of comparing XMLs ignoring the sequence of the elements of the same type. This is very useful if the elements of the same type in an XML represent elements of a set, and the sequence of the elements returned by the system is irrelevant. I've narrowed the problem to an assignment problem and used one of bipartite graph algorithms to solve the root problem.
 * Introduced multiple improvements like: automated configuration diffs run by Jenkins, a shared configuration to omit files duplicates, best practices developers meetings, an usage of a pre tested commit, a local SVN slave to speed up read only operations, a global Maven's parent POM for dependencies management and plugins management, an unified configuration API as an abstraction over a configuration source (file, DB, JMX), RESTful monitoring application giving possibility for QAs to test aspects which were not testable before.
