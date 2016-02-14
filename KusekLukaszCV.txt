@@ -11,11 +11,11 @@ Address: Harpenden, UK
 
 PROFILE
 ========================================================================================================================
-Senior software engineer with over 5 years commercial experience (9 years including part-time jobs). My area of expertise is building highly available backend services on JVM platform (Scala - 1/2 year, Java - 5 years).
+Senior software engineer with almost 6 years commercial experience (10 years including part-time jobs). My area of expertise is building highly available backend services on JVM platform (Scala - 10 months, Java - 5 years).
 
 AVAILABILITY
 ========================================================================================================================
-May 2016
+End of April / beginning of May 2016
 
 SKILLS
 ========================================================================================================================
@@ -47,7 +47,7 @@ Senior Software Engineer (Scala) (2015-07 - ), Ocado Technology (Online grocery 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * I work on low latency services (&lt;10ms) that informs shoppers what is in and out of stock. Services are designed to be highly available and scalable (akka cluster, AWS, blue-green deployment), highly responsible (actor model) and low latency (in-memory cache with akka sharding). Services are based on CQRS and event sourcing.
 * Introduced idea of team goal which helped us prioritize tasks and have common vision of our services.
-* Proposed adjustments to our sprint (pair programming, one story at a time) that helped us finishing everything that was planned for the sprint.
+* Proposed adjustments to our sprint (pair programming, one story at a time) that improved collaboration and helped building trust.
 * Created two OAuth2 libraries (non-blocking client with caching capabilities and testing library) that are widely used across teams at Ocado Technology. Libraries are shared as internal open source projects.
 * Configured Continuous Delivery pipelines. Did a research on implementation of BlueGreen Deployment and found major flaws in the early stage what allowed us to prepare architecture of our applications before it's released to production.
 * Successfully migrated production and integration tests environments to new AWS account before given deadline.
