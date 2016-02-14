@@ -14,7 +14,7 @@
 
 ## Scala Engineer (Contractor)
 
-Senior software engineer with almost 6 years commercial experience (10 years including part-time jobs). My area of expertise is building highly available backend services on JVM platform (Scala - 10 months, Java - 5 years).
+Senior software engineer with almost 6 years commercial experience (9 years including part-time jobs). My area of expertise is building highly available backend services on JVM platform (Scala - 10 months, Java - 5 years).
 
 ### Availability
 
@@ -41,6 +41,7 @@ Maven, Git, JIRA, GO, AWS,
 ## Experience
 
 ### Senior Software Engineer (Scala) (2015-07 - ), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
+Position type: permanent
 * I work on low latency services (&lt;10ms) that informs shoppers what is in and out of stock. Services are designed to be highly available and scalable (akka cluster, AWS, blue-green deployment), highly responsible (actor model) and low latency (in-memory cache with akka sharding). Services are based on CQRS and event sourcing.
 * Introduced idea of team goal which helped us prioritize tasks and have common vision of our services.
 * Proposed adjustments to our sprint (pair programming, one story at a time) that improved collaboration and helped building trust.
@@ -51,6 +52,7 @@ Maven, Git, JIRA, GO, AWS,
 Technologies: Scala, Akka, Spray, AWS, Git, Event Sourcing, Microservices, JSON, REST, Swagger, ScalaTest, JIRA, Guice, DynamoDB, OAuth2, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, 
 
 ### Senior Software Engineer (Java) (2015-02 - 2015-07), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
+Position type: permanent
 * I've worked on replatforming existing order management services to cloud based microservices.
 * Successfully introduced testing standards in the team (testing levels definitions - unit, component, system tests; naming convention).
 * Lead sessions to present importance of tests quality.
@@ -58,6 +60,7 @@ Technologies: Scala, Akka, Spray, AWS, Git, Event Sourcing, Microservices, JSON,
 Technologies: Java, AWS, Git, Microservices, JSON, REST, Swagger, Hystrix, PostgreSQL, Python, OAuth2, Cucumber, Mockito, AssertJ, JUnit, Jenkins, Guice, DynamoDB, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, 
 
 ### Senior Software Developer (Java) - contractor (2014-03 - 2015-01), Luxoft (Investment banking), Krakow, Poland
+Position type: contract via vendor
 * Contractor at UBS Investment Bank. I worked on capital commitment, automatic indication of interest generation and trade advertising applications at Cash Equities project.
 * Introduced automatic system tests, enhanced logging that enabled tracking single requests, automatic build system using Gradle and Jenkins which improved speed and reliability of the process.
 
@@ -66,6 +69,7 @@ Technologies: Java, QuickFIX/J, CameronFIX, Spock, Groovy, Git, Gradle, Jenkins,
 ### Senior Java Developer (2013-05 - 2014-02), Sabre (Airlines and airports), Krakow, Poland
 ### Senior Java Developer - contractor (2012-05 - 2013-05), Sabre (Airlines and airports), Krakow, Poland
 ### Java Developer - contractor (2011-07 - 2012-04), Sabre (Airlines and airports), Krakow, Poland
+Position type: contract / permanent
 * Successfully finished a cost saving project before required deadline. Firstly as a team member, then since 2012 as a team leader. The project was the migration over 30 major airlines between the legacy system (based on HP NonStop Kernel) to the current system. The project was very challenging due to multiple dependencies (Sabre's internal systems, customer's systems), no downtime requirement, big amount of user data (data of 30M+ passengers of airlines), pressure of time, little documentation of the legacy system and all of it's features.
 * Developed a library for comparing XMLs. What makes this library different from the other libraries of this type is the possibility of comparing XMLs ignoring the sequence of the elements of the same type. This is very useful if the elements of the same type in an XML represent elements of a set, and the sequence of the elements returned by the system is irrelevant. I've narrowed the problem to an assignment problem and used one of bipartite graph algorithms to solve the root problem.
 * Introduced multiple improvements like: automated configuration diffs run by Jenkins, a shared configuration to omit files duplicates, best practices developers meetings, an usage of a pre tested commit, a local SVN slave to speed up read only operations, a global Maven's parent POM for dependencies management and plugins management, an unified configuration API as an abstraction over a configuration source (file, DB, JMX), RESTful monitoring application giving possibility for QAs to test aspects which were not testable before.
@@ -75,11 +79,13 @@ Technologies: Java, QuickFIX/J, CameronFIX, Spock, Groovy, Git, Gradle, Jenkins,
 Technologies: Java, Java, Spring, Hibernate, XSLT, Guava, Maven, Apache Wicket, AspectJ, JUnit, Mockito, Fest, MySQL, MyBatis, Apache Camel, XPath, XML, XML Schema, Oracle, Clojure, 
 
 ### Java Developer (2010-06 - 2011-06), Sylogic (Websites), Warszawa, Poland
+Position type: permanent
 * I've been developing web applications for customers. I took part of whole process of creating application (gathering requirements, analysis, designing, developing and deployment)
 
 Technologies: Java, Spring, Hibernate, JSF, Maven, Apache Wicket, Tiles, Intellij IDEA, 
 
 ### Linux administrator (2006-01 - 2009-07), ConSol* Consulting &amp; Solutions Software Poland (CRM), Krakow, Poland
+Position type: part-time
 * I've built and been maintaining infrastructure for a technology company which employed 30 developers.
 * Developed income optimizer for hospitals. Successfully deployed at the hospital in Sucha Beskidzka.
 * Researched and developed a 'proof of concept' application WebCTI - Asterisk / ConSol* CM in a single person R&amp;D project.
