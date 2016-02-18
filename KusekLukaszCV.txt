@@ -33,7 +33,7 @@ Guice, Akka, Spray, Cucumber, CameronFIX, QuickFIX/J, Spring, Hibernate,
 
 Other
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-REST, JSON, Microservices, OAuth2, Event Sourcing, XML, 
+Distributed systems, REST, JSON, Microservices, OAuth2, Event Sourcing, XML, 
 
 Tool
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,33 +47,41 @@ Senior Software Engineer (Scala) (2015-07 - ), Ocado Technology (Online grocery 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: permanent
 
-* I work on low latency services (&lt;10ms) that informs shoppers what is in and out of stock. Services are designed to be highly available and scalable (akka cluster, AWS, blue-green deployment), highly responsible (actor model) and low latency (in-memory cache with akka sharding). Services are based on CQRS and event sourcing.
-* Introduced idea of team goal which helped us prioritize tasks and have common vision of our services.
-* Proposed adjustments to our sprint (pair programming, one story at a time) that improved collaboration and helped building trust.
-* Created two OAuth2 libraries (non-blocking client with caching capabilities and testing library) that are widely used across teams at Ocado Technology. Libraries are shared as internal open source projects.
-* Configured Continuous Delivery pipelines. Did a research on implementation of BlueGreen Deployment and found major flaws in the early stage what allowed us to prepare architecture of our applications before it's released to production.
-* Successfully migrated production and integration tests environments to new AWS account before given deadline.
+    * I work on low latency services (&lt;10ms) that informs shoppers what is in and out of stock. Services are designed to be highly available and scalable (akka cluster, AWS, blue-green deployment), highly responsible (actor model) and low latency (in-memory cache with akka sharding). Services are based on CQRS and event sourcing. 
 
-Technologies: Scala, Akka, Spray, AWS, Git, Event Sourcing, Microservices, JSON, REST, Swagger, ScalaTest, JIRA, Guice, DynamoDB, OAuth2, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, 
+Achievements
+    * Introduced idea of team goal which helped us prioritize tasks and have common vision of our services.
+    * Proposed adjustments to our sprint (pair programming, one story at a time) that improved collaboration and helped building trust.
+    * Created two OAuth2 libraries (non-blocking client with caching capabilities and testing library) that are widely used across teams at Ocado Technology.
+    * Configured Continuous Delivery pipelines. Did a research on implementation of BlueGreen Deployment and found major flaws in the early stage what allowed us to prepare architecture of our applications before it's released to production.
+    * Migrated production and integration tests environments to new AWS account before given deadline.
+
+Technologies: Scala, Akka, Spray, AWS, Git, Event Sourcing, Microservices, Distributed systems, JSON, REST, Swagger, ScalaTest, JIRA, Guice, DynamoDB, OAuth2, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Senior Software Engineer (Java) (2015-02 - 2015-07), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: permanent
 
-* I've worked on replatforming existing order management services to cloud based microservices.
-* Successfully introduced testing standards in the team (testing levels definitions - unit, component, system tests; naming convention).
-* Lead sessions to present importance of tests quality.
+    * I worked on the order management service. Service was part of distributed platform based on cloud computing environment. 
 
-Technologies: Java, AWS, Git, Microservices, JSON, REST, Swagger, Hystrix, PostgreSQL, Python, OAuth2, Cucumber, Mockito, AssertJ, JUnit, Jenkins, Guice, DynamoDB, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, 
+Achievements
+    * Introduced testing standards in the team.
+    * Lead tests quality sessions.
+
+Technologies: Java, AWS, Git, Microservices, Distributed systems, JSON, REST, Swagger, Hystrix, PostgreSQL, Python, OAuth2, Cucumber, Mockito, AssertJ, JUnit, Jenkins, Guice, DynamoDB, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Senior Software Developer (Java) - contractor (2014-03 - 2015-01), Luxoft (Investment banking), Krakow, Poland
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: contract via vendor
 
-* Contractor at UBS Investment Bank. I worked on capital commitment, automatic indication of interest generation and trade advertising applications at Cash Equities project.
-* Introduced automatic system tests, enhanced logging that enabled tracking single requests, automatic build system using Gradle and Jenkins which improved speed and reliability of the process.
+    * Contractor at UBS Investment Bank. I worked on capital commitment, automatic indication of interest generation and trade advertising applications supporting sales traders and market makers at Cash Equities project. Applications were event driven, based on FIX protocol and low latency (&lt;5ms). 
+
+Achievements
+    * Introduced automatic system tests increasing quality of produced software.
+    * Enhanced logging by adding single request tracking which significantly decreased the investigation time in case of an issue.
+    * Set up automatic build system which improved speed and reliability of the release process.
 
 Technologies: Java, QuickFIX/J, CameronFIX, Spock, Groovy, Git, Gradle, Jenkins, Oracle, JIRA, SVN, Intellij IDEA, SQL, JUnit, AssertJ, Guava, Mockito, 
 
@@ -84,20 +92,25 @@ Java Developer - contractor (2011-07 - 2012-04), Sabre (Airlines and airports), 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: contract / permanent
 
-* Successfully finished a cost saving project before required deadline. Firstly as a team member, then since 2012 as a team leader. The project was the migration over 30 major airlines between the legacy system (based on HP NonStop Kernel) to the current system. The project was very challenging due to multiple dependencies (Sabre's internal systems, customer's systems), no downtime requirement, big amount of user data (data of 30M+ passengers of airlines), pressure of time, little documentation of the legacy system and all of it's features.
-* Developed a library for comparing XMLs. What makes this library different from the other libraries of this type is the possibility of comparing XMLs ignoring the sequence of the elements of the same type. This is very useful if the elements of the same type in an XML represent elements of a set, and the sequence of the elements returned by the system is irrelevant. I've narrowed the problem to an assignment problem and used one of bipartite graph algorithms to solve the root problem.
-* Introduced multiple improvements like: automated configuration diffs run by Jenkins, a shared configuration to omit files duplicates, best practices developers meetings, an usage of a pre tested commit, a local SVN slave to speed up read only operations, a global Maven's parent POM for dependencies management and plugins management, an unified configuration API as an abstraction over a configuration source (file, DB, JMX), RESTful monitoring application giving possibility for QAs to test aspects which were not testable before.
-* Developed a fully functional application which integrates traveler's Facebook account with a profile stored in Sabre's Customer Profiles. It was done during the HackDay 2013 contest. The application was written in a Clojure.
-* Successfully developed within 24 hours a 'proof of concept' application for the HackDay 2012 contest. The idea of the project was to introduce the idea of social media to the world of aviation. The application was written in a Clojure which none of team members didn't know before the contest. The project won the audience award. As a followup of the contest the application has been presented to Sabre's marketing team and it occurred that one of the major Sabre's customer is interested in buying the application.
+    * I worked on a cost saving migration project which involved over 30 major airlines. The project was very challenging due to multiple dependencies (Sabre's internal systems, customer's systems), no downtime requirement, big amount of user data (data of 30M+ passengers of airlines), pressure of time, little documentation of the legacy system and all of it's features. Service was part of distributed platform built using SOA and SOAP web services. 
 
-Technologies: Java, Java, Spring, Hibernate, XSLT, Guava, Maven, Apache Wicket, AspectJ, JUnit, Mockito, Fest, MySQL, MyBatis, Apache Camel, XPath, XML, XML Schema, Oracle, Clojure, 
+Achievements
+    * Finished the project 3 months before required deadline (license renewal of a proprietary mainframe).
+    * Developed a XML comparison library using bipartite graph algorithm that significantly decreased number of discrepancies during the migration.
+    * Created automated configuration diff tool reducing release time and increasing quality.
+    * Lead best practices developers meetings which helped keeping common understanding of the system in a big team (30 developers).
+    * Created a configuration API as an abstraction over a configuration source (file, DB, JMX) that allowed operations team to have flexible configuration.
+    * Created searchable log application for QAs which allowed testing untestable before aspects.
+
+Technologies: Java, Java, Spring, Hibernate, XSLT, Guava, Maven, Apache Wicket, AspectJ, JUnit, Mockito, Fest, MySQL, MyBatis, Apache Camel, XPath, XML, XML Schema, Oracle, Clojure, Distributed systems, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Java Developer (2010-06 - 2011-06), Sylogic (Websites), Warszawa, Poland
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: permanent
 
-* I've been developing web applications for customers. I took part of whole process of creating application (gathering requirements, analysis, designing, developing and deployment)
+    * I've been developing web applications for customers. I took part of whole process of creating application (gathering requirements, analysis, designing, developing and deployment) 
+
 
 Technologies: Java, Spring, Hibernate, JSF, Maven, Apache Wicket, Tiles, Intellij IDEA, 
 
@@ -106,9 +119,11 @@ Linux administrator (2006-01 - 2009-07), ConSol* Consulting &amp; Solutions Soft
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: part-time
 
-* I've built and been maintaining infrastructure for a technology company which employed 30 developers.
-* Developed income optimizer for hospitals. Successfully deployed at the hospital in Sucha Beskidzka.
-* Researched and developed a 'proof of concept' application WebCTI - Asterisk / ConSol* CM in a single person R&amp;D project.
+    * I've built and been maintaining infrastructure for a technology company which employed 30 developers. 
+
+Achievements
+    * Developed income optimizer for hospitals. Successfully deployed at the hospital in Sucha Beskidzka.
+    * Researched and developed a 'proof of concept' application WebCTI - Asterisk / ConSol* CM in a single person R&amp;D project.
 
 Technologies: Linux, Bash, awk, Java, Apache Wicket, Spring, Hibernate, Maven, Intellij IDEA, 
 
