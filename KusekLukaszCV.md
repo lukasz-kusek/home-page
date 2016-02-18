@@ -68,6 +68,8 @@ Position type: contract via vendor
 * Contractor at UBS Investment Bank. I worked on capital commitment, automatic indication of interest generation and trade advertising applications supporting sales traders and market makers at Cash Equities project. Applications were event driven, based on FIX protocol and low latency (&lt;5ms). 
 
 Achievements
+* Reverse engineered trade advertising and automatic indication of interest generation and made a presentation for business users.
+* Implemented a proper handling of introduced algos within Sales Facilitation applications.
 * Introduced automatic system tests increasing quality of produced software.
 * Enhanced logging by adding single request tracking which significantly decreased the investigation time in case of an issue.
 * Set up automatic build system which improved speed and reliability of the release process.

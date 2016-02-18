@@ -72,6 +72,8 @@ Position type: contract via vendor
 
 Achievements
 
+    * Reverse engineered trade advertising and automatic indication of interest generation and made a presentation for business users.
+    * Implemented a proper handling of introduced algos within Sales Facilitation applications.
     * Introduced automatic system tests increasing quality of produced software.
     * Enhanced logging by adding single request tracking which significantly decreased the investigation time in case of an issue.
     * Set up automatic build system which improved speed and reliability of the release process.
