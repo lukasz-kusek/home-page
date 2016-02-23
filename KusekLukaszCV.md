@@ -65,7 +65,7 @@ Technologies: Java, AWS, Git, Microservices, Distributed systems, JSON, REST, Sw
 
 ### Senior Software Developer (Java) - contractor (2014-03 - 2015-01), Luxoft (Investment banking), Krakow, Poland
 Position type: contract via vendor
-* Contractor at UBS Investment Bank. I worked on capital commitment, automatic indication of interest generation and trade advertising applications supporting sales traders and market makers at Cash Equities project. Applications were event driven, based on FIX protocol and low latency (&lt;5ms). 
+* Contractor at UBS Investment Bank. I worked on front office applications (capital commitment, automatic indication of interest generation and trade advertising) supporting sales traders and market makers at Cash Equities project. Applications were event driven, based on FIX protocol and low latency (&lt;5ms). 
 
 Achievements
 * Reverse engineered trade advertising and automatic indication of interest generation and made a presentation for business users.
