@@ -12,13 +12,13 @@
 
 *Address*: Harpenden, UK
 
-## Senior Software Engineer
+## Contractor Software Engineer
 
-Senior software engineer with almost 6 years commercial experience (9 years including part-time jobs). My area of expertise is building highly available backend services on JVM platform (Scala - 10 months, Java - 5 years).
+Contractor Software Engineer with 6 years commercial experience (9 years including part-time jobs). My area of expertise is building highly available backend services on JVM platform (Scala - 1 year, Java - 5 years).
 
 ### Availability
 
-End of April / beginning of May 2016
+December 2016
 
 ### Skills
 
@@ -32,7 +32,7 @@ Scala, Java, Python, SQL, Clojure,
 Guice, Akka, Spray, Cucumber, CameronFIX, QuickFIX/J, Spring, Hibernate, 
 
 #### Other
-Distributed systems, REST, JSON, Microservices, OAuth2, Event Sourcing, XML, 
+REST, JSON, Microservices, Distributed systems, OAuth2, Event Sourcing, XML, 
 
 #### Tool
 Maven, Git, JIRA, GO, AWS, 
@@ -127,6 +127,8 @@ AGH University of Science and Technology in Cracow (2004 - 2009), Computer Scien
 
 ### Conferences / trainings
 
+QCon London (2016)
+
 Uncle Bob's Advanced TDD (2015)
 
 GeeCon (2014)
@@ -141,3 +143,7 @@ Java Developers’ Day (2006)
 ### Other
 
 Currently learning Scala and Clojure.
+
+### Last updated
+
+02/06/16

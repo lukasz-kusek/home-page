@@ -1,4 +1,4 @@
-Senior Software Engineer
+Contractor Software Engineer
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 Łukasz Kusek
 
@@ -11,11 +11,11 @@ Address: Harpenden, UK
 
 PROFILE
 ========================================================================================================================
-Senior software engineer with almost 6 years commercial experience (9 years including part-time jobs). My area of expertise is building highly available backend services on JVM platform (Scala - 10 months, Java - 5 years).
+Contractor Software Engineer with 6 years commercial experience (9 years including part-time jobs). My area of expertise is building highly available backend services on JVM platform (Scala - 1 year, Java - 5 years).
 
 AVAILABILITY
 ========================================================================================================================
-End of April / beginning of May 2016
+December 2016
 
 SKILLS
 ========================================================================================================================
@@ -33,7 +33,7 @@ Guice, Akka, Spray, Cucumber, CameronFIX, QuickFIX/J, Spring, Hibernate,
 
 Other
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-Distributed systems, REST, JSON, Microservices, OAuth2, Event Sourcing, XML, 
+REST, JSON, Microservices, Distributed systems, OAuth2, Event Sourcing, XML, 
 
 Tool
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -146,6 +146,7 @@ Maciej Hamiga, January 6, 2013
 
 CONFERENCES / TRAININGS
 ========================================================================================================================
+- QCon London (2016)
 - Uncle Bob's Advanced TDD (2015)
 - GeeCon (2014)
 - JDD (2013)
@@ -155,4 +156,8 @@ CONFERENCES / TRAININGS
 OTHER
 ========================================================================================================================
 Currently learning Scala and Clojure.
+
+LAST UPDATED
+========================================================================================================================
+02/06/16
 
