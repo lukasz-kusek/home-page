@@ -35,7 +35,7 @@ Maven, Git, JIRA, GO, AWS,
 
 == Experience
 
-=== Senior Software Engineer (Scala) (2015-07 - ), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
+=== Senior Software Engineer (Scala) (2015-07 - 2016-06), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
 
 Position type: permanent
 
@@ -159,5 +159,5 @@ Currently learning Scala and Clojure.
 
 === Last updated
 
-02/06/16
+13/06/16
 

@@ -40,7 +40,7 @@ Maven, Git, JIRA, GO, AWS,
 
 ## Experience
 
-### Senior Software Engineer (Scala) (2015-07 - ), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
+### Senior Software Engineer (Scala) (2015-07 - 2016-06), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
 Position type: permanent
 * I work on low latency services (&lt;10ms) that informs shoppers what is in and out of stock. Services are designed to be highly available and scalable (akka cluster, AWS, blue-green deployment), highly responsible (actor model) and low latency (in-memory cache with akka sharding). Services are based on CQRS and event sourcing. 
 
@@ -146,4 +146,4 @@ Currently learning Scala and Clojure.
 
 ### Last updated
 
-02/06/16
+13/06/16
