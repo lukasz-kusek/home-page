@@ -26,7 +26,7 @@ December 2016
 DynamoDB, PostgreSQL, Oracle, MySQL, 
 
 #### Language
-Scala, Java, Python, SQL, Clojure, 
+Java, Scala, Python, SQL, Clojure, 
 
 #### Library
 Guice, Akka, Spray, Cucumber, CameronFIX, QuickFIX/J, Spring, Hibernate, 
@@ -39,6 +39,13 @@ Maven, Git, JIRA, GO, AWS,
 
 
 ## Experience
+
+### Java Scala Developer (2016-06 - ), HSBC (Investment banking), London, United Kingdom
+Position type: contract
+* FX eDistribution 
+
+
+Technologies: Scala, Java, 
 
 ### Senior Software Engineer (Scala) (2015-07 - 2016-06), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
 Position type: permanent
@@ -155,4 +162,4 @@ Currently learning Scala and Clojure.
 
 ### Last updated
 
-23/06/16
+15/07/16
