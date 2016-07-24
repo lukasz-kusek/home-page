@@ -142,7 +142,7 @@ Technologies: Linux, Bash, awk, Java, Apache Wicket, Spring, Hibernate, Maven, I
 
 EDUCATION
 ========================================================================================================================
-AGH University of Science and Technology in Cracow (2004 - 2009), Computer Science
+AGH University of Science and Technology in Cracow (2004 - 2009), Computer Science (not completed)
 
 
 RECOMMENDATIONS

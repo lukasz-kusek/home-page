@@ -138,7 +138,7 @@ Maciej Hamiga, January 6, 2013
 
 ### Education
 
-AGH University of Science and Technology in Cracow (2004 - 2009), Computer Science
+AGH University of Science and Technology in Cracow (2004 - 2009), Computer Science (not completed)
 
 
 ### Conferences / trainings
