@@ -18,7 +18,7 @@ Contractor Software Engineer with 6 years commercial experience (9 years includi
 
 ### Availability
 
-December 2016
+4 weeks or mid December 2016
 
 ### Skills
 
