@@ -29,23 +29,23 @@ DynamoDB, PostgreSQL, Oracle, MySQL,
 Java, Scala, Python, SQL, Clojure, 
 
 #### Library
-Guice, Akka, Spray, Cucumber, CameronFIX, QuickFIX/J, Spring, Hibernate, 
+Akka, Guice, Spray, Cucumber, CameronFIX, QuickFIX/J, Spring, Hibernate, 
 
 #### Other
 REST, JSON, Microservices, Distributed systems, OAuth2, Event Sourcing, XML, 
 
 #### Tool
-Maven, Git, JIRA, GO, AWS, 
+Maven, Git, TeamCity, Grafana, Splunk, JIRA, GO, AWS, Jenkins, 
 
 
 ## Experience
 
 ### Java Scala Developer (2016-06 - ), HSBC (Investment banking), London, United Kingdom
 Position type: contract
-* FX eDistribution 
+* I work at the FX eDistribution project on a backend service supporting an UI component responsible for controlling lifecycle of algorithmic FX orders (TWAP, Implementation Shortfall, Liquidity Seeking and Benchmark). 
 
 
-Technologies: Scala, Java, 
+Technologies: Scala, Java, Akka, Git, Splunk, Grafana, TeamCity, Intellij IDEA, Maven, 
 
 ### Senior Software Engineer (Scala) (2015-07 - 2016-06), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
 Position type: permanent
@@ -162,4 +162,4 @@ Currently learning Scala and Clojure.
 
 ### Last updated
 
-15/07/16
+24/07/16
