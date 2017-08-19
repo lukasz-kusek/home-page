@@ -9,11 +9,11 @@
 
 == Contractor Software Engineer
 
-Contractor Software Engineer with 6 years commercial experience (9 years including part-time jobs). My area of expertise is building highly available backend services on JVM platform (Scala - 1 year, Java - 5 years).
+Contractor Software Engineer with 7 years commercial experience (10 years including part-time jobs). My area of expertise is building highly available backend services on JVM platform (Scala - 1.5 year, Java - 6 years).
 
 === Availability
 
-4 weeks or mid December 2016
+4 weeks or mid December 2017
 
 === Skills
 
@@ -21,29 +21,29 @@ Contractor Software Engineer with 6 years commercial experience (9 years includi
 DynamoDB, PostgreSQL, Oracle, MySQL, 
 
 ==== Language
-Java, Scala, Python, SQL, Clojure, 
+Java, Scala, Clojure, Python, SQL, 
 
 ==== Library
 Akka, Guice, Spray, Cucumber, CameronFIX, QuickFIX/J, Spring, Hibernate, 
 
 ==== Other
-REST, JSON, Microservices, Distributed systems, OAuth2, Event Sourcing, XML, 
+Microservices, REST, JSON, Distributed systems, OAuth2, Event Sourcing, XML, 
 
 ==== Tool
-Maven, Git, TeamCity, Grafana, Splunk, JIRA, GO, AWS, Jenkins, 
+Maven, Git, JIRA, TeamCity, Splunk, Grafana, GO, AWS, Jenkins, 
 
 
 == Experience
 
-=== Java Scala Developer (2016-06 - ), HSBC (Investment banking), London, United Kingdom
+=== Contractor Software Engineer (2016-06 - ), HSBC (Investment banking), London, United Kingdom
 
 Position type: contract
 
-    * I work at the FX eDistribution project on a backend service supporting an UI component responsible for controlling lifecycle of algorithmic FX orders (TWAP, Implementation Shortfall, Liquidity Seeking and Benchmark). 
+    * I work at the FX eDistribution project on a backend service supporting an UI component responsible for controlling lifecycle of algorithmic FX orders (TWAP, Implementation Shortfall, Liquidity Seeking) and market FX orders (Stop Loss, Take Profit and Benchmark). 
 
 
 
-Technologies: Scala, Java, Akka, Git, Splunk, Grafana, TeamCity, Intellij IDEA, Maven, 
+Technologies: Java, Git, Microservices, Splunk, Grafana, JIRA, TeamCity, Intellij IDEA, Maven, Akka, Scala, Clojure, Mockito, AssertJ, JUnit, 
 
 === Senior Software Engineer (Scala) (2015-07 - 2016-06), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
 
@@ -178,5 +178,5 @@ Currently learning Scala and Clojure.
 
 === Last updated
 
-24/07/16
+8/19/17
 
