@@ -9,37 +9,51 @@
 
 == Contractor Software Engineer
 
-Contractor Software Engineer with 7 years commercial experience (10 years including part-time jobs). My area of expertise is building highly available backend services on JVM platform (Scala - 1.5 year, Java - 6 years).
+Contractor Software Engineer with 8.5 years commercial experience (12 years including part-time jobs). My area of expertise is building microservices-based backend applications on JVM platform (Java - 7.5 years, Scala - 1.5 year).
 
 === Availability
 
-4 weeks or mid December 2017
+4 weeks or end of June 2019
 
 === Skills
 
 ==== Database
-DynamoDB, PostgreSQL, Oracle, MySQL, 
+PostgreSQL, DynamoDB, Oracle, MySQL, 
 
 ==== Language
-Java, Scala, Clojure, Python, SQL, 
+Java, Clojure, SQL, Bash, JavaScript, Scala, Python, 
 
 ==== Library
-Akka, Guice, Spray, Cucumber, CameronFIX, QuickFIX/J, Spring, Hibernate, 
+Ratpack, Akka, Guice, Spray, Cucumber, CameronFIX, QuickFIX/J, Spring, Hibernate, 
 
 ==== Other
 Microservices, REST, JSON, Distributed systems, OAuth2, Event Sourcing, XML, 
 
 ==== Tool
-Maven, Git, JIRA, TeamCity, Splunk, Grafana, GO, AWS, Jenkins, 
+Git, JIRA, TeamCity, Maven, Gradle, Splunk, Grafana, Puppet, Docker, Ansible, GO, AWS, Jenkins, 
 
 
 == Experience
 
-=== Contractor Software Engineer (2016-06 - ), HSBC (Investment banking), London, United Kingdom
+=== Contractor Software Engineer (2017-09 - ), HSBC (Investment banking), London, United Kingdom
 
 Position type: contract
 
-    * I work at the FX eDistribution project on a backend service supporting an UI component responsible for controlling lifecycle of algorithmic FX orders (TWAP, Implementation Shortfall, Liquidity Seeking) and market FX orders (Stop Loss, Take Profit and Benchmark). 
+    * I work on a project introducing a new revenue attribution model for sales people. 
+
+Achievements
+
+    * Completed full process of requesting, configuring and going through sign-off process of new production servers tailored for DevOps use.
+    * Automated release process which increased delivery frequency from fortnightly to several per day.
+    * Built a set of microservices to replace team management system (including design, REST request/response and streaming APIs, eventing-based replication, PostgreSQL database, automatic schema migration with Flyway, UI with plain modern JavaScript)
+
+Technologies: Java, Ratpack, Git, Microservices, Splunk, Grafana, JIRA, TeamCity, Intellij IDEA, Puppet, Ansible, Docker, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, 
+
+=== Contractor Software Engineer (2016-06 - 2017-09), HSBC (Investment banking), London, United Kingdom
+
+Position type: contract
+
+    * I worked at the FX eDistribution project on a backend service supporting an UI component responsible for controlling lifecycle of algorithmic FX orders (TWAP, Implementation Shortfall, Liquidity Seeking) and market FX orders (Stop Loss, Take Profit and Benchmark). 
 
 
 
@@ -49,7 +63,7 @@ Technologies: Java, Git, Microservices, Splunk, Grafana, JIRA, TeamCity, Intelli
 
 Position type: permanent
 
-    * I worked on low latency services (&lt;10ms) that informs shoppers what is in and out of stock. Services were designed to be highly available and scalable (akka cluster, AWS, blue-green deployment), highly responsive (actor model) and low latency (in-memory cache with akka sharding). Services were based on CQRS and event sourcing. 
+    * I worked on low latency services (&lt;10ms) that calculated availability of products in real time. Services were designed to be highly available and scalable (akka cluster, AWS, blue-green deployment), highly responsive (actor model) and low latency (in-memory cache with akka sharding). Services were based on CQRS and event sourcing. 
 
 Achievements
 
@@ -178,5 +192,5 @@ Currently learning Scala and Clojure.
 
 === Last updated
 
-8/19/17
+1/14/19
 
