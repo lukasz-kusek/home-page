@@ -23,7 +23,7 @@ Contractor Software Engineer with 8.5 years commercial experience (12 years incl
 ### Skills
 
 #### Database
-PostgreSQL, DynamoDB, Oracle, MySQL, 
+PostgreSQL, InfluxDB, Elasticsearch, DynamoDB, Oracle, MySQL, 
 
 #### Language
 Java, Clojure, SQL, Bash, JavaScript, Scala, Python, 
@@ -35,7 +35,7 @@ Ratpack, Akka, Guice, Spray, Cucumber, CameronFIX, QuickFIX/J, Spring, Hibernate
 Microservices, REST, JSON, Distributed systems, OAuth2, Event Sourcing, XML, 
 
 #### Tool
-Git, JIRA, TeamCity, Maven, Gradle, Splunk, Grafana, Puppet, Docker, Ansible, GO, AWS, Jenkins, 
+Git, JIRA, TeamCity, Maven, Gradle, Splunk, Grafana, Telegraf, Puppet, Docker, Ansible, GO, AWS, Jenkins, 
 
 
 ## Experience
@@ -49,7 +49,7 @@ Achievements
 * Automated release process which increased delivery frequency from fortnightly to several per day.
 * Built a set of microservices to replace team management system (including design, REST request/response and streaming APIs, eventing-based replication, PostgreSQL database, automatic schema migration with Flyway, UI with plain modern JavaScript)
 
-Technologies: Java, Ratpack, Git, Microservices, Splunk, Grafana, JIRA, TeamCity, Intellij IDEA, Puppet, Ansible, Docker, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, 
+Technologies: Java, Ratpack, Git, Microservices, Splunk, Grafana, InfluxDB, Telegraf, Elasticsearch, JIRA, TeamCity, Intellij IDEA, Puppet, Ansible, Docker, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, 
 
 ### Contractor Software Engineer (2016-06 - 2017-09), HSBC (Investment banking), London, United Kingdom
 Position type: contract
@@ -173,4 +173,4 @@ Currently learning Scala and Clojure.
 
 ### Last updated
 
-1/14/19
+2/21/19
