@@ -11,7 +11,7 @@ Address: Harpenden, UK
 
 PROFILE
 ========================================================================================================================
-Contractor Software Engineer with 8.5 years commercial experience (12 years including part-time jobs). My area of expertise is building microservices-based backend applications on JVM platform (Java - 7.5 years, Scala - 1.5 year).
+Contractor Software Engineer with 9 years commercial experience (12 years including part-time jobs). My area of expertise is building microservices-based backend applications on JVM platform (Java - 7.5 years, Scala - 1.5 year, Kotlin, Clojure) on Linux. Recently started to learn Rust.
 
 AVAILABILITY
 ========================================================================================================================
@@ -25,11 +25,15 @@ PostgreSQL, InfluxDB, Elasticsearch, DynamoDB, Oracle, MySQL,
 
 Language
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-Java, Clojure, SQL, Bash, JavaScript, Scala, Python, 
+Java, Clojure, SQL, Bash, JavaScript, Kotlin, Rust, Scala, Python, 
 
 Library
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-Ratpack, Akka, Guice, Spray, Cucumber, CameronFIX, QuickFIX/J, Spring, Hibernate, 
+Ratpack, Akka, Guice, Spray, Cucumber, CameronFIX, QuickFIX/J, 
+
+Os
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Linux, 
 
 Other
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -37,24 +41,38 @@ Microservices, REST, JSON, Distributed systems, OAuth2, Event Sourcing, XML,
 
 Tool
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-Git, JIRA, TeamCity, Maven, Gradle, Splunk, Grafana, Telegraf, Puppet, Docker, Ansible, GO, AWS, Jenkins, 
+Git, JIRA, Gradle, Maven, TeamCity, Splunk, Grafana, Telegraf, Puppet, Docker, Ansible, GO, AWS, Jenkins, 
 
 
 EXPERIENCE
 ========================================================================================================================
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Contractor Software Engineer (2017-09 - ), HSBC (Investment banking), London, United Kingdom
+Contractor Software Engineer (2019-02 - ), HSBC (Investment banking), London, United Kingdom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: contract
 
-    * I work on a project introducing a new revenue attribution model for sales people. 
+    * Building a service producing insights for sales people using Machine Learning. 
+
+Achievements
+    * Redesigned service based on an integration database into set of microservices.
+    * Automated release process which reduced manual steps to minimum.
+    * Started a Rust User Group within HSBC. Brought Rust and Cargo into HSBC. Created crates.io mirror.
+
+Technologies: Java, Kotlin, Rust, Git, Microservices, JIRA, Intellij IDEA, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Intellij IDEA, Linux, 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Contractor Software Engineer (2017-09 - 2019-02), HSBC (Investment banking), London, United Kingdom
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Position type: contract
+
+    * Worked on a project introducing a new revenue attribution model for sales people. 
 
 Achievements
     * Completed full process of requesting, configuring and going through sign-off process of new production servers tailored for DevOps use.
     * Automated release process which increased delivery frequency from fortnightly to several per day.
     * Built a set of microservices to replace team management system (including design, REST request/response and streaming APIs, eventing-based replication, PostgreSQL database, automatic schema migration with Flyway, UI with plain modern JavaScript)
 
-Technologies: Java, Ratpack, Git, Microservices, Splunk, Grafana, InfluxDB, Telegraf, Elasticsearch, JIRA, TeamCity, Intellij IDEA, Puppet, Ansible, Docker, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, 
+Technologies: Java, Ratpack, Git, Microservices, Splunk, Grafana, InfluxDB, Telegraf, Elasticsearch, JIRA, TeamCity, Intellij IDEA, Puppet, Ansible, Docker, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Linux, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Contractor Software Engineer (2016-06 - 2017-09), HSBC (Investment banking), London, United Kingdom
@@ -64,7 +82,7 @@ Position type: contract
     * I worked at the FX eDistribution project on a backend service supporting an UI component responsible for controlling lifecycle of algorithmic FX orders (TWAP, Implementation Shortfall, Liquidity Seeking) and market FX orders (Stop Loss, Take Profit and Benchmark). 
 
 
-Technologies: Java, Git, Microservices, Splunk, Grafana, JIRA, TeamCity, Intellij IDEA, Maven, Akka, Scala, Clojure, Mockito, AssertJ, JUnit, 
+Technologies: Java, Git, Microservices, Splunk, Grafana, JIRA, TeamCity, Intellij IDEA, Maven, Akka, Scala, Clojure, Mockito, AssertJ, JUnit, Linux, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Senior Software Engineer (Scala) (2015-07 - 2016-06), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
@@ -80,7 +98,7 @@ Achievements
     * Configured Continuous Delivery pipelines. Did a research on implementation of BlueGreen Deployment and found major flaws in the early stage what allowed us to prepare architecture of our applications before it's released to production.
     * Migrated production and integration tests environments to new AWS account before given deadline.
 
-Technologies: Scala, Akka, Spray, AWS, Git, Event Sourcing, Microservices, Distributed systems, JSON, REST, Swagger, ScalaTest, JIRA, Guice, DynamoDB, OAuth2, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, 
+Technologies: Scala, Akka, Spray, AWS, Git, Event Sourcing, Microservices, Distributed systems, JSON, REST, Swagger, ScalaTest, JIRA, Guice, DynamoDB, OAuth2, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, Linux, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Senior Software Engineer (Java) (2015-02 - 2015-07), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
@@ -93,7 +111,7 @@ Achievements
     * Introduced testing standards in the team.
     * Lead tests quality sessions.
 
-Technologies: Java, AWS, Git, Microservices, Distributed systems, JSON, REST, Swagger, Hystrix, PostgreSQL, Python, OAuth2, Cucumber, Mockito, AssertJ, JUnit, Jenkins, Guice, DynamoDB, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, 
+Technologies: Java, AWS, Git, Microservices, Distributed systems, JSON, REST, Swagger, Hystrix, PostgreSQL, Python, OAuth2, Cucumber, Mockito, AssertJ, JUnit, Jenkins, Guice, DynamoDB, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, Linux, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Senior Software Developer (Java) - contractor (2014-03 - 2015-01), Luxoft (Investment banking), Krakow, Poland
@@ -109,7 +127,7 @@ Achievements
     * Enhanced logging by adding single request tracking which significantly decreased the investigation time in case of an issue.
     * Set up automatic build system which improved speed and reliability of the release process.
 
-Technologies: Java, QuickFIX/J, CameronFIX, Spock, Groovy, Git, Gradle, Jenkins, Oracle, JIRA, SVN, Intellij IDEA, SQL, JUnit, AssertJ, Guava, Mockito, 
+Technologies: Java, QuickFIX/J, CameronFIX, Spock, Groovy, Git, Gradle, Jenkins, Oracle, JIRA, SVN, Intellij IDEA, SQL, JUnit, AssertJ, Guava, Mockito, Linux, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Senior Java Developer (2013-05 - 2014-02), Sabre (Airlines and airports), Krakow, Poland
@@ -128,7 +146,7 @@ Achievements
     * Created a configuration API as an abstraction over a configuration source (file, DB, JMX) that allowed operations team to have flexible configuration.
     * Created searchable log application for QAs which allowed testing untestable before aspects.
 
-Technologies: Java, Java, Spring, Hibernate, XSLT, Guava, Maven, Apache Wicket, AspectJ, JUnit, Mockito, Fest, MySQL, MyBatis, Apache Camel, XPath, XML, XML Schema, Oracle, Clojure, Distributed systems, 
+Technologies: Java, Java, Spring, Hibernate, XSLT, Guava, Maven, Apache Wicket, AspectJ, JUnit, Mockito, Fest, MySQL, MyBatis, Apache Camel, XPath, XML, XML Schema, Oracle, Clojure, Distributed systems, Linux, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Java Developer (2010-06 - 2011-06), Sylogic (Websites), Warszawa, Poland
@@ -192,5 +210,5 @@ Currently learning Scala and Clojure.
 
 LAST UPDATED
 ========================================================================================================================
-2/21/19
+5/15/19
 
