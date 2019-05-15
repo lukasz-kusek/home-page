@@ -9,7 +9,7 @@
 
 == Contractor Software Engineer
 
-Contractor Software Engineer with 9 years commercial experience (12 years including part-time jobs). My area of expertise is building microservices-based backend applications on JVM platform (Java - 7.5 years, Scala - 1.5 year, Kotlin, Clojure) on Linux. Recently started to learn Rust.
+Contractor Software Engineer with 9 years commercial experience (12 years including part-time jobs) and expertise in building microservices-based backend applications on JVM platform (Java - 7.5 years, Scala - 1.5 year, Kotlin, Clojure) on Linux. Advocates for being Agile, not doing Agile; and DevOps. Recently started to learn Rust.
 
 === Availability
 
@@ -30,7 +30,7 @@ Ratpack, Akka, Guice, Spray, Cucumber, CameronFIX, QuickFIX/J,
 Linux, 
 
 ==== Other
-Microservices, REST, JSON, Distributed systems, OAuth2, Event Sourcing, XML, 
+Microservices, DevOps, Agile, REST, JSON, Distributed systems, OAuth2, Event Sourcing, XML, 
 
 ==== Tool
 Git, JIRA, Gradle, Maven, TeamCity, Splunk, Grafana, Telegraf, Puppet, Docker, Ansible, GO, AWS, Jenkins, 
@@ -50,7 +50,7 @@ Achievements
     * Automated release process which reduced manual steps to minimum.
     * Started a Rust User Group within HSBC. Brought Rust and Cargo into HSBC. Created crates.io mirror.
 
-Technologies: Java, Kotlin, Rust, Git, Microservices, JIRA, Intellij IDEA, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Intellij IDEA, Linux, 
+Technologies: Java, Kotlin, Rust, Git, Microservices, JIRA, Intellij IDEA, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Intellij IDEA, Linux, DevOps, Agile, 
 
 === Contractor Software Engineer (2017-09 - 2019-02), HSBC (Investment banking), London, United Kingdom
 
@@ -64,7 +64,7 @@ Achievements
     * Automated release process which increased delivery frequency from fortnightly to several per day.
     * Built a set of microservices to replace team management system (including design, REST request/response and streaming APIs, eventing-based replication, PostgreSQL database, automatic schema migration with Flyway, UI with plain modern JavaScript)
 
-Technologies: Java, Ratpack, Git, Microservices, Splunk, Grafana, InfluxDB, Telegraf, Elasticsearch, JIRA, TeamCity, Intellij IDEA, Puppet, Ansible, Docker, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Linux, 
+Technologies: Java, Ratpack, Git, Microservices, Splunk, Grafana, InfluxDB, Telegraf, Elasticsearch, JIRA, TeamCity, Intellij IDEA, Puppet, Ansible, Docker, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Linux, DevOps, Agile, 
 
 === Contractor Software Engineer (2016-06 - 2017-09), HSBC (Investment banking), London, United Kingdom
 
@@ -74,7 +74,7 @@ Position type: contract
 
 
 
-Technologies: Java, Git, Microservices, Splunk, Grafana, JIRA, TeamCity, Intellij IDEA, Maven, Akka, Scala, Clojure, Mockito, AssertJ, JUnit, Linux, 
+Technologies: Java, Git, Microservices, Splunk, Grafana, JIRA, TeamCity, Intellij IDEA, Maven, Akka, Scala, Clojure, Mockito, AssertJ, JUnit, Linux, DevOps, Agile, 
 
 === Senior Software Engineer (Scala) (2015-07 - 2016-06), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
 
