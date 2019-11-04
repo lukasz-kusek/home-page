@@ -38,7 +38,7 @@ Linux,
 Microservices, DevOps, Agile, REST, JSON, Distributed systems, OAuth2, Event Sourcing, XML, 
 
 #### Tool
-Git, JIRA, Maven, Ansible, Node.js, webpack, puppeteer, Gradle, TeamCity, Splunk, Grafana, Telegraf, Puppet, Docker, GO, AWS, Jenkins, 
+Git, JIRA, Maven, Ansible, Node.js, webpack, puppeteer, OpenFin, Gradle, TeamCity, Splunk, Grafana, Telegraf, Puppet, Docker, GO, AWS, Jenkins, 
 
 
 ## Experience
@@ -48,7 +48,7 @@ Position type: contract
 * Migrated Equities Prime Portal from Flash-based platform to HTML5/JavaScript platform. 
 
 
-Technologies: Java, Kotlin, TypeScript, Git, Microservices, JIRA, Intellij IDEA, Maven, Clojure, JavaScript, Bash, JSON, REST, SQL, Linux, DevOps, Ansible, Agile, webpack, puppeteer, Node.js, 
+Technologies: Java, Kotlin, TypeScript, Git, Microservices, JIRA, Intellij IDEA, Maven, Clojure, JavaScript, Bash, JSON, REST, SQL, Linux, DevOps, Ansible, Agile, webpack, puppeteer, Node.js, OpenFin, 
 
 ### Contractor Software Engineer (2019-02 - 2019-07), HSBC (Investment banking), London, United Kingdom
 Position type: contract
