@@ -263,6 +263,21 @@
           "name": "Agile",
           "usage-frequency": "day-to-day",
           "category": "other"
+        },
+        {
+          "name": "webpack",
+          "usage-frequency": "often",
+          "category": "tool"
+        },
+        {
+          "name": "puppeteer",
+          "usage-frequency": "often",
+          "category": "tool"
+        },
+        {
+          "name": "Node.js",
+          "usage-frequency": "often",
+          "category": "tool"
         }
       ]
     },

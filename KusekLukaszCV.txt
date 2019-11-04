@@ -41,7 +41,7 @@ Microservices, DevOps, Agile, REST, JSON, Distributed systems, OAuth2, Event Sou
 
 Tool
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-Git, JIRA, Maven, Ansible, Gradle, TeamCity, Splunk, Grafana, Telegraf, Puppet, Docker, GO, AWS, Jenkins, 
+Git, JIRA, Maven, Ansible, Gradle, Node.js, webpack, puppeteer, TeamCity, Splunk, Grafana, Telegraf, Puppet, Docker, GO, AWS, Jenkins, 
 
 
 EXPERIENCE
@@ -68,7 +68,7 @@ Achievements
     * Automated release process which reduced manual steps to minimum.
     * Started a Rust User Group within HSBC. Brought Rust and Cargo into HSBC. Created crates.io mirror.
 
-Technologies: Java, Kotlin, Rust, Git, Microservices, JIRA, Intellij IDEA, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Intellij IDEA, DevOps, Agile, 
+Technologies: Java, Kotlin, Rust, Git, Microservices, JIRA, Intellij IDEA, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Intellij IDEA, DevOps, Agile, webpack, puppeteer, Node.js, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Contractor Software Engineer (2017-09 - 2019-02), HSBC (Investment banking), London, United Kingdom
