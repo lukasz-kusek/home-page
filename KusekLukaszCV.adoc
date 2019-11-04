@@ -42,7 +42,7 @@ Git, JIRA, Maven, Ansible, Node.js, webpack, puppeteer, OpenFin, Gradle, TeamCit
 
 Position type: contract
 
-    * Migrated Equities Prime Portal from Flash-based platform to HTML5/JavaScript platform. 
+    * Migrating Equities Prime Portal from Flash-based platform to HTML5/JavaScript platform. Full back to front project including: analysis of existing solution, rewriting a monolith application into a set of microservices, migration of existing 6-month release cycle into one change - one release release cycle incorporating DevOps and Agile principles, building entitlements service and administrative UI, creating a HTML5 application run on OpenFin. 
 
 
 
@@ -52,7 +52,7 @@ Technologies: Java, Kotlin, TypeScript, Git, Microservices, JIRA, Intellij IDEA,
 
 Position type: contract
 
-    * Building a service producing insights for sales people using Machine Learning. 
+    * Building a service producing insights for sales people based on clients trading history using Machine Learning. 
 
 Achievements
 
