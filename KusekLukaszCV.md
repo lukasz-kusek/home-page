@@ -18,7 +18,7 @@ Contractor Software Engineer with 9 years commercial experience (12 years includ
 
 ### Availability
 
-4 weeks or end of June 2019
+December 2019
 
 ### Skills
 
@@ -26,7 +26,7 @@ Contractor Software Engineer with 9 years commercial experience (12 years includ
 PostgreSQL, InfluxDB, Elasticsearch, DynamoDB, Oracle, MySQL, 
 
 #### Language
-Java, Clojure, SQL, Bash, JavaScript, Kotlin, Rust, Scala, Python, 
+Java, Clojure, Kotlin, SQL, Bash, JavaScript, TypeScript, Rust, Scala, Python, 
 
 #### Library
 Ratpack, Akka, Guice, Spray, Cucumber, CameronFIX, QuickFIX/J, 
@@ -38,12 +38,19 @@ Linux,
 Microservices, DevOps, Agile, REST, JSON, Distributed systems, OAuth2, Event Sourcing, XML, 
 
 #### Tool
-Git, JIRA, Gradle, Maven, TeamCity, Splunk, Grafana, Telegraf, Puppet, Docker, Ansible, GO, AWS, Jenkins, 
+Git, JIRA, Maven, Ansible, Gradle, TeamCity, Splunk, Grafana, Telegraf, Puppet, Docker, GO, AWS, Jenkins, 
 
 
 ## Experience
 
-### Contractor Software Engineer (2019-02 - ), HSBC (Investment banking), London, United Kingdom
+### Contractor Software Engineer (2019-07 - ), HSBC (Investment banking), London, United Kingdom
+Position type: contract
+* Migrated Equities Prime Portal from Flash-based platform to HTML5/JavaScript platform. 
+
+
+Technologies: Java, Kotlin, TypeScript, Git, Microservices, JIRA, Intellij IDEA, Maven, Clojure, JavaScript, Bash, JSON, REST, SQL, Linux, DevOps, Ansible, Agile, 
+
+### Contractor Software Engineer (2019-02 - 2019-07), HSBC (Investment banking), London, United Kingdom
 Position type: contract
 * Building a service producing insights for sales people using Machine Learning. 
 
@@ -52,7 +59,7 @@ Achievements
 * Automated release process which reduced manual steps to minimum.
 * Started a Rust User Group within HSBC. Brought Rust and Cargo into HSBC. Created crates.io mirror.
 
-Technologies: Java, Kotlin, Rust, Git, Microservices, JIRA, Intellij IDEA, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Intellij IDEA, Linux, DevOps, Agile, 
+Technologies: Java, Kotlin, Rust, Git, Microservices, JIRA, Intellij IDEA, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Intellij IDEA, DevOps, Agile, 
 
 ### Contractor Software Engineer (2017-09 - 2019-02), HSBC (Investment banking), London, United Kingdom
 Position type: contract
@@ -187,4 +194,4 @@ Currently learning Scala and Clojure.
 
 ### Last updated
 
-5/15/19
+11/4/19
