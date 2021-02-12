@@ -11,11 +11,11 @@ Address: Harpenden, UK
 
 PROFILE
 ========================================================================================================================
-Contractor Software Engineer with 9 years commercial experience (12 years including part-time jobs) and expertise in building microservices-based backend applications on JVM platform (Java - 7.5 years, Scala - 1.5 year, Kotlin, Clojure) on Linux. Advocates for being Agile, not doing Agile; and DevOps. Recently started to learn Rust.
+Contractor Software Engineer with 10 years commercial experience (13 years including part-time jobs) and expertise in building microservices-based backend applications on JVM platform (Kotlin - 2 years, Java - 9 years, Scala, Clojure, Python) and frontend applications (TypeScript) on Linux. Advocates for being Agile, not doing Agile; and DevOps.
 
 AVAILABILITY
 ========================================================================================================================
-December 2019
+30 days
 
 SKILLS
 ========================================================================================================================
@@ -25,7 +25,7 @@ PostgreSQL, InfluxDB, Elasticsearch, DynamoDB, Oracle, MySQL,
 
 Language
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-Java, Clojure, Kotlin, SQL, Bash, JavaScript, TypeScript, Rust, Scala, Python, 
+Java, Kotlin, TypeScript, Bash, SQL, Clojure, JavaScript, Rust, Scala, Python, 
 
 Library
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -41,18 +41,53 @@ Microservices, DevOps, Agile, REST, JSON, Distributed systems, OAuth2, Event Sou
 
 Tool
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-Git, JIRA, Maven, Ansible, Node.js, webpack, puppeteer, OpenFin, Gradle, TeamCity, Splunk, Grafana, Telegraf, Puppet, Docker, GO, AWS, Jenkins, 
+Git, JIRA, Maven, Node.js, webpack, puppeteer, Ansible, OpenFin, Docker, GCP, Gradle, TeamCity, Splunk, Grafana, Telegraf, Puppet, GO, AWS, Jenkins, 
 
 
 EXPERIENCE
 ========================================================================================================================
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Contractor Software Engineer (2019-07 - ), HSBC (Investment banking), London, United Kingdom
+Contractor Software Engineer (2021-02 - ), HSBC (Investment banking), London, United Kingdom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: contract
 
-    * Migrating Equities Prime Portal from Flash-based platform to HTML5/JavaScript platform. Full back to front project including: analysis of existing solution, rewriting a monolith application into a set of microservices, migration of existing 6-month release cycle into one change - one release release cycle incorporating DevOps and Agile principles, building entitlements service and administrative UI, creating a HTML5 application run on OpenFin. 
+    * Building a hosting platform for JVM-based microservices to enable teams to deliver quickly and safely business solutions to production. Advocating Agile and DevOps. 
 
+
+Technologies: Java, Kotlin, TypeScript, Git, Microservices, JIRA, Intellij IDEA, Maven, Bash, JSON, REST, Linux, DevOps, Agile, 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Contractor Software Engineer (2020-12 - 2021-01), HSBC (Investment banking), London, United Kingdom
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Position type: contract
+
+    * Successfully delivered a stock locating client facing application for Equities Prime clients. Front to back delivery in a delivery-focused team following Agile and DevOps principles. 
+
+Achievements
+    * The project was delivered on time although an initial 5-month delay when I joined the project.
+
+Technologies: Java, Kotlin, TypeScript, Git, Microservices, JIRA, Intellij IDEA, Maven, Bash, JSON, REST, SQL, Linux, DevOps, Ansible, Agile, webpack, puppeteer, Node.js, OpenFin, 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Contractor Software Engineer (2020-07 - 2020-12), HSBC (Investment banking), London, United Kingdom
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Position type: contract
+
+    * Building a hosting platform for JVM-based microservices to enable teams to deliver quickly and safely business solutions to production. Advocating Agile and DevOps. 
+
+
+Technologies: Kotlin, Java, Git, Microservices, JIRA, Intellij IDEA, Maven, Linux, DevOps, Agile, GCP, Docker, 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Contractor Software Engineer (2019-07 - 2020-07), HSBC (Investment banking), London, United Kingdom
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Position type: contract
+
+    * Successfully migrated client facing portal for Equities Prime clients from Flash-based platform to HTML5/TypeScript platform in an Agile iterative way with full business involvement. Full back to front project including: analysis of existing solution, rewriting a monolith application into a set of microservices, migration of existing 6-month release cycle into one change - one release release cycle incorporating DevOps and Agile principles, building entitlements service and administrative UI, creating a HTML5 application run on OpenFin and in browser. 
+
+Achievements
+    * Met the deadline with the safe margin.
+    * Delivered product in an iterative way with full business involvement and constant feedback.
 
 Technologies: Java, Kotlin, TypeScript, Git, Microservices, JIRA, Intellij IDEA, Maven, Clojure, JavaScript, Bash, JSON, REST, SQL, Linux, DevOps, Ansible, Agile, webpack, puppeteer, Node.js, OpenFin, 
 
@@ -220,5 +255,5 @@ Currently learning Scala and Clojure.
 
 LAST UPDATED
 ========================================================================================================================
-11/4/19
+2/12/21
 
