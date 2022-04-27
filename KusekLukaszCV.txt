@@ -1,4 +1,4 @@
-Contractor Software Engineer
+Software Engineer
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 Łukasz Kusek
 
@@ -11,7 +11,24 @@ Address: Harpenden, UK
 
 PROFILE
 ========================================================================================================================
-Contractor Software Engineer with 10 years commercial experience (13 years including part-time jobs) and expertise in building microservices-based backend applications on JVM platform (Kotlin - 2 years, Java - 9 years, Scala, Clojure, Python) and frontend applications (TypeScript) on Linux. Advocates for being Agile, not doing Agile; and DevOps.
+Software Engineer with over 11 years of commercial experience and expertise in building microservices-based backend applications on JVM platform (Kotlin, Java, Scala, Clojure) and frontend applications (TypeScript) on Linux (standalone servers, cloud environments - GCP, AWS, Kubernetes).
+Experienced in leading small teams of developers, technical leadership and delivering products.
+Solves problems that 'can't be done'.
+
+Advocates for:
+- Following Agile principles, not just Agile processes and ceremonies
+- Slicing work vertically to deliver small and often
+- Reducing feedback loops
+- Self-documenting code over comprehensive documentation
+- Independent, non-breaking deployments
+- Simplicity, not overcomplicated solutions
+- Pragmatic, not dogmatic solutions
+- DevOps, breaking silos, not just tooling setup
+- Ownership
+- Working closely with customers/clients/users
+- Rapid prototyping, ‘spiking out’, testing assumptions
+- Being aware of bigger picture, continuously thinking holistically
+- Continuous improvement
 
 AVAILABILITY
 ========================================================================================================================
@@ -25,7 +42,7 @@ PostgreSQL, InfluxDB, Elasticsearch, DynamoDB, Oracle, MySQL,
 
 Language
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-Java, Kotlin, TypeScript, Bash, SQL, Clojure, JavaScript, Rust, Scala, Python, 
+Kotlin, TypeScript, Bash, Java, SQL, Clojure, JavaScript, Rust, Scala, Python, 
 
 Library
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -37,11 +54,11 @@ Linux,
 
 Other
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-Microservices, DevOps, Agile, REST, JSON, Distributed systems, OAuth2, Event Sourcing, XML, 
+Microservices, DevOps, Agile, Hexagonal architecture, REST, JSON, API-First, Distributed systems, OAuth2, Event Sourcing, XML, 
 
 Tool
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-Git, JIRA, Maven, Node.js, webpack, puppeteer, Ansible, OpenFin, Docker, GCP, Gradle, TeamCity, Splunk, Grafana, Telegraf, Puppet, GO, AWS, Jenkins, 
+Git, JIRA, Maven, Docker, GCP, Kubernetes, Node.js, webpack, puppeteer, Ansible, OpenFin, Gradle, TeamCity, Splunk, Grafana, Telegraf, Puppet, GO, AWS, Jenkins, 
 
 
 EXPERIENCE
@@ -51,59 +68,80 @@ Contractor Software Engineer (2021-02 - ), HSBC (Investment banking), London, Un
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: contract
 
-    * Building a hosting platform for JVM-based microservices to enable teams to deliver quickly and safely business solutions to production. Advocating Agile and DevOps. 
+    * Introduced a concept of a cross cloud providers hosting platform (GCP, Alicloud, AWS) to enable teams to deliver business solutions quickly and safely to production with toil reduced to minimum. Building the platform using GKE (Google Kubernetes Engine) for Global Banking and Markets (GBM) Securities Financing departament. Leading technology choices and design. Advocating Agile and DevOps. 
 
+Achievements
+    * 
+      Designed and implemented multiple services widely used in the department:
+      - Automated TLS certificates generation
+      - LDAP authentication
+      - Services catalog
+      - Automated release audit documents generation (change description, implementation tasks, testing evidence, quality scans, security scans) tailored for quick and safe approvals
+      - Deployment service fulfilling HSBC change management requirements
+      - Single sign on authentication/authorization mechanism for the UI components based on Kerberos and JWT tokens
+    * 
+      Lead a series of mob programming sessions to promote Agile approach.
+    * 
+      Delivered highly successful presentation about releasing smaller, faster and safer with highest number of views in the series.
 
-Technologies: Java, Kotlin, TypeScript, Git, Microservices, JIRA, Intellij IDEA, Maven, Bash, JSON, REST, Linux, DevOps, Agile, 
+Technologies: Kotlin, TypeScript, Git, Microservices, Hexagonal architecture, API-First, JIRA, Intellij IDEA, Maven, Bash, JSON, TLS certificates, LDAP, Kerberos, JWT, REST, Linux, GCP, Docker, Kubernetes, DevOps, Agile, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Contractor Software Engineer (2020-12 - 2021-01), HSBC (Investment banking), London, United Kingdom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: contract
 
-    * Successfully delivered a stock locating client facing application for Equities Prime clients. Front to back delivery in a delivery-focused team following Agile and DevOps principles. 
+    * Lead technology choices and design. Introduced an Agile approach with full customer collaboration using prototypes which prevented us from going into wrong direction. Successfully delivered a stock locating client facing application for Global Banking and Markets (GBM) Equities Prime clients. Front to back delivery in a delivery-focused team following Agile and DevOps principles. 
 
 Achievements
-    * The project was delivered on time although an initial 5-month delay when I joined the project.
+    * 
+      The project was delivered on time although an initial 5-month delay when I joined the project.
+    * 
+      Delivery resulted immediate increase in client short balances.
 
-Technologies: Java, Kotlin, TypeScript, Git, Microservices, JIRA, Intellij IDEA, Maven, Bash, JSON, REST, SQL, Linux, DevOps, Ansible, Agile, webpack, puppeteer, Node.js, OpenFin, 
+Technologies: Kotlin, Java, TypeScript, Git, Microservices, Hexagonal architecture, API-First, JIRA, Intellij IDEA, Maven, Bash, JSON, REST, SQL, Linux, DevOps, Ansible, Agile, webpack, puppeteer, Node.js, OpenFin, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Contractor Software Engineer (2020-07 - 2020-12), HSBC (Investment banking), London, United Kingdom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: contract
 
-    * Building a hosting platform for JVM-based microservices to enable teams to deliver quickly and safely business solutions to production. Advocating Agile and DevOps. 
+    * Lead technology choices and design. Building a hosting platform for JVM-based microservices to enable teams in Global Banking and Markets (GBM) Securities Financing departament to deliver quickly and safely business solutions to production. Advocating Agile and DevOps. 
 
 
-Technologies: Kotlin, Java, Git, Microservices, JIRA, Intellij IDEA, Maven, Linux, DevOps, Agile, GCP, Docker, 
+Technologies: Kotlin, Git, Microservices, Hexagonal architecture, API-First, JIRA, Intellij IDEA, Maven, Linux, DevOps, Agile, GCP, Docker, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Contractor Software Engineer (2019-07 - 2020-07), HSBC (Investment banking), London, United Kingdom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: contract
 
-    * Successfully migrated client facing portal for Equities Prime clients from Flash-based platform to HTML5/TypeScript platform in an Agile iterative way with full business involvement. Full back to front project including: analysis of existing solution, rewriting a monolith application into a set of microservices, migration of existing 6-month release cycle into one change - one release release cycle incorporating DevOps and Agile principles, building entitlements service and administrative UI, creating a HTML5 application run on OpenFin and in browser. 
+    * Lead technology choices and design. Successfully migrated client facing portal for Global Banking and Markets (GBM) Equities Prime clients from Flash-based platform to HTML5/TypeScript platform in an Agile iterative way with full business involvement. Full back to front project including: analysis of existing solution, rewriting a monolith application into a set of microservices, migration of existing 6-month release cycle into one change - one release release cycle incorporating DevOps and Agile principles. Built entitlements service and administrative UI. Created a HTML5 application for OpenFin and browsers. 
 
 Achievements
-    * Met the deadline with the safe margin.
-    * Delivered product in an iterative way with full business involvement and constant feedback.
+    * 
+      Met the deadline with the safe margin.
+    * 
+      Delivered product in an iterative way with full business involvement and constant feedback.
 
-Technologies: Java, Kotlin, TypeScript, Git, Microservices, JIRA, Intellij IDEA, Maven, Clojure, JavaScript, Bash, JSON, REST, SQL, Linux, DevOps, Ansible, Agile, webpack, puppeteer, Node.js, OpenFin, 
+Technologies: Kotlin, Java, TypeScript, Git, Microservices, Hexagonal architecture, API-First, JIRA, Intellij IDEA, Maven, Clojure, JavaScript, Bash, JSON, REST, SQL, Linux, DevOps, Ansible, Agile, webpack, puppeteer, Node.js, OpenFin, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Contractor Software Engineer (2019-02 - 2019-07), HSBC (Investment banking), London, United Kingdom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: contract
 
-    * Building a service producing insights for sales people based on clients trading history using Machine Learning. 
+    * Worked on a service producing insights for sales people based on clients trading history using Machine Learning. 
 
 Achievements
-    * Redesigned service based on an integration database into set of microservices.
-    * Automated release process which reduced manual steps to minimum.
-    * Started a Rust User Group within HSBC. Brought Rust and Cargo into HSBC. Created crates.io mirror.
+    * 
+      Redesigned service based on an integration database into set of microservices.
+    * 
+      Automated release process which reduced manual steps to minimum.
+    * 
+      Started a Rust User Group within HSBC. Brought Rust and Cargo into HSBC. Created crates.io mirror.
 
-Technologies: Java, Kotlin, Rust, Git, Microservices, JIRA, Intellij IDEA, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Intellij IDEA, DevOps, Agile, 
+Technologies: Kotlin, Java, Rust, Git, Microservices, Hexagonal architecture, JIRA, Intellij IDEA, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Intellij IDEA, DevOps, Agile, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Contractor Software Engineer (2017-09 - 2019-02), HSBC (Investment banking), London, United Kingdom
@@ -113,9 +151,12 @@ Position type: contract
     * Worked on a project introducing a new revenue attribution model for sales people. 
 
 Achievements
-    * Completed full process of requesting, configuring and going through sign-off process of new production servers tailored for DevOps use.
-    * Automated release process which increased delivery frequency from fortnightly to several per day.
-    * Built a set of microservices to replace team management system (including design, REST request/response and streaming APIs, eventing-based replication, PostgreSQL database, automatic schema migration with Flyway, UI with plain modern JavaScript)
+    * 
+      Completed full process of requesting, configuring and going through sign-off process of new production servers tailored for DevOps use.
+    * 
+      Automated release process which increased delivery frequency from fortnightly to several per day.
+    * 
+      Built a set of microservices to replace team management system (including design, REST request/response and streaming APIs, eventing-based replication, PostgreSQL database, automatic schema migration with Flyway, UI with plain modern JavaScript)
 
 Technologies: Java, Ratpack, Git, Microservices, Splunk, Grafana, InfluxDB, Telegraf, Elasticsearch, JIRA, TeamCity, Intellij IDEA, Puppet, Ansible, Docker, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Linux, DevOps, Agile, 
 
@@ -124,8 +165,13 @@ Contractor Software Engineer (2016-06 - 2017-09), HSBC (Investment banking), Lon
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: contract
 
-    * I worked at the FX eDistribution project on a backend service supporting an UI component responsible for controlling lifecycle of algorithmic FX orders (TWAP, Implementation Shortfall, Liquidity Seeking) and market FX orders (Stop Loss, Take Profit and Benchmark). 
+    * Worked at the FX eDistribution project on a backend service supporting an UI component responsible for controlling lifecycle of algorithmic FX orders (TWAP, Implementation Shortfall, Liquidity Seeking) and market FX orders (Stop Loss, Take Profit and Benchmark). Lead backend services design and delivery 
 
+Achievements
+    * 
+      Introduced automated integration and API contract tests which allowed to catch a number of issues with API our services consumed
+    * 
+      Delivered Stop Loss and Take Profit orders in a cooperation with the algorithmic trading team
 
 Technologies: Java, Git, Microservices, Splunk, Grafana, JIRA, TeamCity, Intellij IDEA, Maven, Akka, Scala, Clojure, Mockito, AssertJ, JUnit, Linux, DevOps, Agile, 
 
@@ -134,14 +180,19 @@ Senior Software Engineer (Scala) (2015-07 - 2016-06), Ocado Technology (Online g
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: permanent
 
-    * I worked on low latency services (&lt;10ms) that calculated availability of products in real time. Services were designed to be highly available and scalable (akka cluster, AWS, blue-green deployment), highly responsive (actor model) and low latency (in-memory cache with akka sharding). Services were based on CQRS and event sourcing. 
+    * Worked on low latency services (&lt;10ms) that calculated availability of products in real time. Services were designed to be highly available and scalable (akka cluster, AWS, blue-green deployment), highly responsive (actor model) and low latency (in-memory cache with akka sharding). Services were based on CQRS and event sourcing. 
 
 Achievements
-    * Introduced idea of team goal which helped us prioritize tasks and have common vision of our services.
-    * Proposed adjustments to our sprint (pair programming, one story at a time) that improved collaboration and helped building trust.
-    * Created two OAuth2 libraries (non-blocking client with caching capabilities and testing library) that are widely used across teams at Ocado Technology.
-    * Configured Continuous Delivery pipelines. Did a research on implementation of BlueGreen Deployment and found major flaws in the early stage what allowed us to prepare architecture of our applications before it's released to production.
-    * Migrated production and integration tests environments to new AWS account before given deadline.
+    * 
+      Introduced idea of team goal which helped us prioritize tasks and have common vision of our services.
+    * 
+      Proposed adjustments to our sprint (pair programming, one story at a time) that improved collaboration and helped building trust.
+    * 
+      Created two OAuth2 libraries (non-blocking client with caching capabilities and testing library) that are widely used across teams at Ocado Technology.
+    * 
+      Configured Continuous Delivery pipelines. Did a research on implementation of BlueGreen Deployment and found major flaws in the early stage what allowed us to prepare architecture of our applications before it's released to production.
+    * 
+      Migrated production and integration tests environments to new AWS account before given deadline.
 
 Technologies: Scala, Akka, Spray, AWS, Git, Event Sourcing, Microservices, Distributed systems, JSON, REST, Swagger, ScalaTest, JIRA, Guice, DynamoDB, OAuth2, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, Linux, 
 
@@ -150,46 +201,59 @@ Senior Software Engineer (Java) (2015-02 - 2015-07), Ocado Technology (Online gr
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: permanent
 
-    * I worked on the order management service. Service was part of distributed platform based on cloud computing environment. 
+    * Worked on the order management service. Service was part of distributed platform based on cloud computing environment. 
 
 Achievements
-    * Introduced testing standards in the team.
-    * Lead tests quality sessions.
+    * 
+      Introduced testing standards in the team.
+    * 
+      Lead tests quality sessions.
 
 Technologies: Java, AWS, Git, Microservices, Distributed systems, JSON, REST, Swagger, Hystrix, PostgreSQL, Python, OAuth2, Cucumber, Mockito, AssertJ, JUnit, Jenkins, Guice, DynamoDB, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, Linux, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Senior Software Developer (Java) - contractor (2014-03 - 2015-01), Luxoft (Investment banking), Krakow, Poland
+Senior Software Developer (contract) (2014-03 - 2015-01), Luxoft (Investment banking), Krakow, Poland
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: contract via vendor
 
-    * Contractor at UBS Investment Bank. I worked on front office applications (capital commitment, automatic indication of interest generation and trade advertising) supporting sales traders and market makers at Cash Equities project. Applications were event driven, based on FIX protocol and low latency (&lt;5ms). 
+    * Contractor at UBS Investment Bank. Worked on front office applications (capital commitment, automatic indication of interest generation and trade advertising) supporting sales traders and market makers at Cash Equities project. Applications were event driven, based on FIX protocol and low latency (&lt;5ms). 
 
 Achievements
-    * Reverse engineered trade advertising and automatic indication of interest generation and made a presentation for business users.
-    * Implemented a proper handling of introduced algos within Sales Facilitation applications.
-    * Introduced automatic system tests increasing quality of produced software.
-    * Enhanced logging by adding single request tracking which significantly decreased the investigation time in case of an issue.
-    * Set up automatic build system which improved speed and reliability of the release process.
+    * 
+      Reverse engineered trade advertising and automatic indication of interest generation and made a presentation for business users.
+    * 
+      Implemented a proper handling of introduced algos within Sales Facilitation applications.
+    * 
+      Introduced automatic system tests increasing quality of produced software.
+    * 
+      Enhanced logging by adding single request tracking which significantly decreased the investigation time in case of an issue.
+    * 
+      Set up automatic build system which improved speed and reliability of the release process.
 
 Technologies: Java, QuickFIX/J, CameronFIX, Spock, Groovy, Git, Gradle, Jenkins, Oracle, JIRA, SVN, Intellij IDEA, SQL, JUnit, AssertJ, Guava, Mockito, Linux, 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Senior Java Developer (2013-05 - 2014-02), Sabre (Airlines and airports), Krakow, Poland
-Senior Java Developer - contractor (2012-05 - 2013-05), Sabre (Airlines and airports), Krakow, Poland
-Java Developer - contractor (2011-07 - 2012-04), Sabre (Airlines and airports), Krakow, Poland
+Senior Java Developer (contract) (2012-05 - 2013-05), Sabre (Airlines and airports), Krakow, Poland
+Java Developer (contract) (2011-07 - 2012-04), Sabre (Airlines and airports), Krakow, Poland
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Position type: contract / permanent
 
-    * I worked on a cost saving migration project which involved over 30 major airlines. The project was very challenging due to multiple dependencies (Sabre's internal systems, customer's systems), no downtime requirement, big amount of user data (data of 30M+ passengers of airlines), pressure of time, little documentation of the legacy system and all of it's features. Service was part of distributed platform built using SOA and SOAP web services. 
+    * Worked on a cost saving migration project which involved over 30 major airlines. Lead the team of 4 developers during the last year of the project. The project was very challenging due to multiple dependencies (Sabre's internal systems, customer's systems), no downtime requirement, big amount of user data (data of 30M+ passengers of airlines), pressure of time, little documentation of the legacy system and all of it's features. Service was part of distributed platform built using SOA and SOAP web services. 
 
 Achievements
-    * Finished the project 3 months before required deadline (license renewal of a proprietary mainframe).
-    * Developed a XML comparison library using bipartite graph algorithm that significantly decreased number of discrepancies during the migration.
-    * Created automated configuration diff tool reducing release time and increasing quality.
-    * Lead best practices developers meetings which helped keeping common understanding of the system in a big team (30 developers).
-    * Created a configuration API as an abstraction over a configuration source (file, DB, JMX) that allowed operations team to have flexible configuration.
-    * Created searchable log application for QAs which allowed testing untestable before aspects.
+    * 
+      Finished the project 3 months before required deadline (license renewal of a proprietary mainframe).
+    * 
+      Developed a XML comparison library using bipartite graph algorithm that significantly decreased number of discrepancies during the migration.
+    * 
+      Created automated configuration diff tool reducing release time and increasing quality.
+    * 
+      Lead best practices developers meetings which helped keeping common understanding of the system in a big team (30 developers).
+    * 
+      Created a configuration API as an abstraction over a configuration source (file, DB, JMX) that allowed operations team to have flexible configuration.
+    * 
+      Created searchable log application for QAs which allowed testing untestable before aspects.
 
 Technologies: Java, Java, Spring, Hibernate, XSLT, Guava, Maven, Apache Wicket, AspectJ, JUnit, Mockito, Fest, MySQL, MyBatis, Apache Camel, XPath, XML, XML Schema, Oracle, Clojure, Distributed systems, Linux, 
 
@@ -211,8 +275,10 @@ Position type: part-time
     * I've built and been maintaining infrastructure for a technology company which employed 30 developers. 
 
 Achievements
-    * Developed income optimizer for hospitals. Successfully deployed at the hospital in Sucha Beskidzka.
-    * Researched and developed a 'proof of concept' application WebCTI - Asterisk / ConSol* CM in a single person R&amp;D project.
+    * 
+      Developed income optimizer for hospitals. Successfully deployed at the hospital in Sucha Beskidzka.
+    * 
+      Researched and developed a 'proof of concept' application WebCTI - Asterisk / ConSol* CM in a single person R&amp;D project.
 
 Technologies: Linux, Bash, awk, Java, Apache Wicket, Spring, Hibernate, Maven, Intellij IDEA, 
 
@@ -255,5 +321,5 @@ Currently learning Scala and Clojure.
 
 LAST UPDATED
 ========================================================================================================================
-2/12/21
+4/27/22
 
