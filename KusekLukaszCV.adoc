@@ -152,7 +152,7 @@ Achievements
 
 Technologies: Java, Ratpack, Git, Microservices, Splunk, Grafana, InfluxDB, Telegraf, Elasticsearch, JIRA, TeamCity, Intellij IDEA, Puppet, Ansible, Docker, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Linux, DevOps, Agile, 
 
-=== Senior Software Engineer (2016-06 - 2017-09), HSBC (Investment banking), London, United Kingdom
+=== Lead Software Engineer (2016-06 - 2017-09), HSBC (Investment banking), London, United Kingdom
 
 Position type: contract
 

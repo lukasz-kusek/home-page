@@ -139,7 +139,7 @@ Achievements
 
 Technologies: Java, Ratpack, Git, Microservices, Splunk, Grafana, InfluxDB, Telegraf, Elasticsearch, JIRA, TeamCity, Intellij IDEA, Puppet, Ansible, Docker, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Linux, DevOps, Agile, 
 
-### Senior Software Engineer (2016-06 - 2017-09), HSBC (Investment banking), London, United Kingdom
+### Lead Software Engineer (2016-06 - 2017-09), HSBC (Investment banking), London, United Kingdom
 Position type: contract
 * Worked at the FX eDistribution project on a backend service supporting an UI component responsible for controlling lifecycle of algorithmic FX orders (TWAP, Implementation Shortfall, Liquidity Seeking) and market FX orders (Stop Loss, Take Profit and Benchmark). Lead backend services design and delivery. 
 
