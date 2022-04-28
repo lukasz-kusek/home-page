@@ -60,9 +60,9 @@ Git, JIRA, Maven, Docker, GCP, Kubernetes, Node.js, webpack, puppeteer, Ansible,
 
 ## Experience
 
-### Contractor Software Engineer (2021-02 - ), HSBC (Investment banking), London, United Kingdom
+### Technical Lead (2021-02 - ), HSBC (Investment banking), London, United Kingdom
 Position type: contract
-* Building a hosting platform using GKE (Google Kubernetes Engine) for Global Banking and Markets (GBM) Securities Financing departament. Introduced a concept of a cross cloud providers hosting platform (GCP, Alicloud, AWS) to enable teams to deliver business solutions quickly and safely to production with toil reduced to minimum. Leading technology choices and design. Advocating Agile and DevOps. 
+* Building a hosting platform using GKE (Google Kubernetes Engine) for Global Banking and Markets (GBM) Securities Financing departament. Introduced a concept of a cross cloud providers hosting platform (GCP, Alicloud, AWS) to enable teams to deliver business solutions quickly and safely to production with toil reduced to minimum. Leading technology choices and design. Reviewing code for other team members and (as an independent reviewer) other teams. Actively working with Product Owner and other stakeholders to manage priorities, define delivery items for team of 4 engineers. Leading interviews. Advocating Agile and DevOps. 
 
 Achievements
 * 
@@ -80,7 +80,7 @@ Achievements
 
 Technologies: Kotlin, TypeScript, Git, Microservices, Hexagonal architecture, API-First, JIRA, Intellij IDEA, Maven, Bash, JSON, TLS certificates, LDAP, Kerberos, JWT, REST, Linux, GCP, Docker, Kubernetes, DevOps, Agile, 
 
-### Contractor Software Engineer (2020-12 - 2021-01), HSBC (Investment banking), London, United Kingdom
+### Lead Software Engineer (2020-12 - 2021-01), HSBC (Investment banking), London, United Kingdom
 Position type: contract
 * Successfully delivered a stock locating client facing application for Global Banking and Markets (GBM) Equities Prime clients. Front to back delivery in a delivery-focused team following Agile and DevOps principles. Lead technology choices and design. Introduced an Agile approach with full customer collaboration using prototypes which prevented us from going into wrong direction. 
 
@@ -92,14 +92,14 @@ Achievements
 
 Technologies: Kotlin, Java, TypeScript, Git, Microservices, Hexagonal architecture, API-First, JIRA, Intellij IDEA, Maven, Bash, JSON, REST, SQL, Linux, DevOps, Ansible, Agile, webpack, puppeteer, Node.js, OpenFin, 
 
-### Contractor Software Engineer (2020-07 - 2020-12), HSBC (Investment banking), London, United Kingdom
+### Technical Lead (2020-07 - 2020-12), HSBC (Investment banking), London, United Kingdom
 Position type: contract
 * Building a hosting platform for JVM-based microservices to enable teams in Global Banking and Markets (GBM) Securities Financing departament to deliver quickly and safely business solutions to production. Advocating Agile and DevOps. Lead technology choices and design. 
 
 
 Technologies: Kotlin, Git, Microservices, Hexagonal architecture, API-First, JIRA, Intellij IDEA, Maven, Linux, DevOps, Agile, GCP, Docker, 
 
-### Contractor Software Engineer (2019-07 - 2020-07), HSBC (Investment banking), London, United Kingdom
+### Lead Software Engineer (2019-07 - 2020-07), HSBC (Investment banking), London, United Kingdom
 Position type: contract
 * Successfully migrated client facing portal for Global Banking and Markets (GBM) Equities Prime clients from Flash-based platform to HTML5/TypeScript platform in an Agile iterative way with full business involvement. Full back to front project including: analysis of existing solution, rewriting a monolith application into a set of microservices, migration of existing 6-month release cycle into one change - one release release cycle incorporating DevOps and Agile principles. Built entitlements service and administrative UI. Created a HTML5 application for OpenFin and browsers. Lead technology choices and design. 
 
@@ -111,7 +111,7 @@ Achievements
 
 Technologies: Kotlin, Java, TypeScript, Git, Microservices, Hexagonal architecture, API-First, JIRA, Intellij IDEA, Maven, Clojure, JavaScript, Bash, JSON, REST, SQL, Linux, DevOps, Ansible, Agile, webpack, puppeteer, Node.js, OpenFin, 
 
-### Contractor Software Engineer (2019-02 - 2019-07), HSBC (Investment banking), London, United Kingdom
+### Senior Software Engineer (2019-02 - 2019-07), HSBC (Investment banking), London, United Kingdom
 Position type: contract
 * Worked on a service producing insights for sales people based on clients trading history using Machine Learning. 
 
@@ -125,7 +125,7 @@ Achievements
 
 Technologies: Kotlin, Java, Rust, Git, Microservices, Hexagonal architecture, JIRA, Intellij IDEA, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Intellij IDEA, DevOps, Agile, 
 
-### Contractor Software Engineer (2017-09 - 2019-02), HSBC (Investment banking), London, United Kingdom
+### Senior Software Engineer (2017-09 - 2019-02), HSBC (Investment banking), London, United Kingdom
 Position type: contract
 * Worked on a project introducing a new revenue attribution model for sales people. 
 
@@ -139,7 +139,7 @@ Achievements
 
 Technologies: Java, Ratpack, Git, Microservices, Splunk, Grafana, InfluxDB, Telegraf, Elasticsearch, JIRA, TeamCity, Intellij IDEA, Puppet, Ansible, Docker, Maven, Gradle, Clojure, JavaScript, Bash, JSON, REST, PostgreSQL, SQL, Linux, DevOps, Agile, 
 
-### Contractor Software Engineer (2016-06 - 2017-09), HSBC (Investment banking), London, United Kingdom
+### Senior Software Engineer (2016-06 - 2017-09), HSBC (Investment banking), London, United Kingdom
 Position type: contract
 * Worked at the FX eDistribution project on a backend service supporting an UI component responsible for controlling lifecycle of algorithmic FX orders (TWAP, Implementation Shortfall, Liquidity Seeking) and market FX orders (Stop Loss, Take Profit and Benchmark). Lead backend services design and delivery. 
 
@@ -151,7 +151,7 @@ Achievements
 
 Technologies: Java, Git, Microservices, Splunk, Grafana, JIRA, TeamCity, Intellij IDEA, Maven, Akka, Scala, Clojure, Mockito, AssertJ, JUnit, Linux, DevOps, Agile, 
 
-### Senior Software Engineer (Scala) (2015-07 - 2016-06), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
+### Senior Software Engineer (2015-07 - 2016-06), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
 Position type: permanent
 * Worked on low latency services (&lt;10ms) that calculated availability of products in real time. Services were designed to be highly available and scalable (akka cluster, AWS, blue-green deployment), highly responsive (actor model) and low latency (in-memory cache with akka sharding). Services were based on CQRS and event sourcing. 
 
@@ -169,7 +169,7 @@ Achievements
 
 Technologies: Scala, Akka, Spray, AWS, Git, Event Sourcing, Microservices, Distributed systems, JSON, REST, Swagger, ScalaTest, JIRA, Guice, DynamoDB, OAuth2, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, Linux, 
 
-### Senior Software Engineer (Java) (2015-02 - 2015-07), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
+### Senior Software Engineer (2015-02 - 2015-07), Ocado Technology (Online grocery retail), Hatfield, United Kingdom
 Position type: permanent
 * Worked on the order management service. Service was part of distributed platform based on cloud computing environment. 
 
@@ -181,7 +181,7 @@ Achievements
 
 Technologies: Java, AWS, Git, Microservices, Distributed systems, JSON, REST, Swagger, Hystrix, PostgreSQL, Python, OAuth2, Cucumber, Mockito, AssertJ, JUnit, Jenkins, Guice, DynamoDB, Crucible, Kibana, Logstash, GO, Intellij IDEA, Maven, Linux, 
 
-### Senior Software Developer (contract) (2014-03 - 2015-01), Luxoft (Investment banking), Krakow, Poland
+### Senior Software Engineer (2014-03 - 2015-01), Luxoft (Investment banking), Krakow, Poland
 Position type: contract via vendor
 * Contractor at UBS Investment Bank. Worked on front office applications (capital commitment, automatic indication of interest generation and trade advertising) supporting sales traders and market makers at Cash Equities project. Applications were event driven, based on FIX protocol and low latency (&lt;5ms). 
 
@@ -199,9 +199,9 @@ Achievements
 
 Technologies: Java, QuickFIX/J, CameronFIX, Spock, Groovy, Git, Gradle, Jenkins, Oracle, JIRA, SVN, Intellij IDEA, SQL, JUnit, AssertJ, Guava, Mockito, Linux, 
 
-### Senior Java Developer (2013-05 - 2014-02), Sabre (Airlines and airports), Krakow, Poland
-### Senior Java Developer (contract) (2012-05 - 2013-05), Sabre (Airlines and airports), Krakow, Poland
-### Java Developer (contract) (2011-07 - 2012-04), Sabre (Airlines and airports), Krakow, Poland
+### Technical Lead (2013-05 - 2014-02), Sabre (Airlines and airports), Krakow, Poland
+### Senior Software Engineer (2012-05 - 2013-05), Sabre (Airlines and airports), Krakow, Poland
+### Software Engineer (2011-07 - 2012-04), Sabre (Airlines and airports), Krakow, Poland
 Position type: contract / permanent
 * Worked on a cost saving migration project which involved over 30 major airlines. Lead the team of 4 developers during the last year of the project. The project was very challenging due to multiple dependencies (Sabre's internal systems, customer's systems), no downtime requirement, big amount of user data (data of 30M+ passengers of airlines), pressure of time, little documentation of the legacy system and all of it's features. Service was part of distributed platform built using SOA and SOAP web services. 
 
@@ -221,7 +221,7 @@ Achievements
 
 Technologies: Java, Java, Spring, Hibernate, XSLT, Guava, Maven, Apache Wicket, AspectJ, JUnit, Mockito, Fest, MySQL, MyBatis, Apache Camel, XPath, XML, XML Schema, Oracle, Clojure, Distributed systems, Linux, 
 
-### Java Developer (2010-06 - 2011-06), Sylogic (Websites), Warszawa, Poland
+### Software Engineer (2010-06 - 2011-06), Sylogic (Websites), Warszawa, Poland
 Position type: permanent
 * I've been developing web applications for customers. I took part of whole process of creating application (gathering requirements, analysis, designing, developing and deployment) 
 
@@ -286,4 +286,4 @@ Currently learning Scala and Clojure.
 
 ### Last updated
 
-4/27/22
+4/28/22
